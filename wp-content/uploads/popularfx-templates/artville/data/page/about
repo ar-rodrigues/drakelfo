@@ -1,0 +1,139 @@
+[pl_post_props pagelayer-id="vPFwMCVLcWmu6qXm"  post_title="About" post_name="about" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="GJpLPgQiGdwFMYeG"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/other-pagebg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="gJM8BKinR0ceCCvI"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="pgtpAA2wVLxoYpxe"  heading_state="normal" color="#ffffffff" heading_typo="Muli,65,,,,,Solid,,,," heading_typo_mobile=",50,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+About Us[/pl_heading]
+[pl_divider pagelayer-id="zXJfG7bsyPO4j1Cq"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="12" divider_gap="10" divider_alignment="left" divider_widht_mobile="20" divider_widht_tablet="14"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="zIlqB8m8LIAfhbrE"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="60px,0px,0px,0px"]
+[pl_col pagelayer-id="MmDzQWOnNmx95bku"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" animation="fadeInLeft" animation_delay="600"]
+[pl_heading pagelayer-id="mBm0Rve6qYv292Cf"  heading_state="normal" color="#111111" align="left" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="" animation_delay="600"]
+
+
+
+About Artville[/pl_heading]
+[pl_divider pagelayer-id="WIwgWH2qJmHGkgKq"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="19" divider_gap="10" divider_alignment="left" divider_widht_mobile="20" divider_widht_tablet="14"]
+[/pl_divider]
+[pl_text pagelayer-id="ugCln6QiY7irNCBC"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}"]
+
+
+
+
+
+<p style="font-size: 14px;">Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p>[/pl_text]
+[pl_text pagelayer-id="BQwo0qhXuncsjl9w"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}"]
+
+
+
+
+
+<p style="font-size: 14px;">Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>[/pl_text]
+[pl_btn pagelayer-id="aOeuVDs9UOYYVQfL"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Poppins,14,,,,,Solid,,,," btn_custom_size="25" btn_bg_color="" btn_color="#2196f3ff" btn_bg_color_hover="#1976d2ff" btn_border_type="solid" btn_border_color="#2196f3ff" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_hover="hover" ele_margin="20px,0px,0px,0px" btn_bor_hover="" btn_color_hover="#ffffffff" btn_border_type_hover="solid" btn_border_color_hover="#1976d2ff" btn_border_width_hover="1,1,1,1"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="5H5IoHlHa4HHae4I"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="ByMqbDHcMK5VaDht"  id="{{theme_url}}/images/home-img3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="RfAPrEv7vPRWe93Z"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="060px,0px,0px,0px"]
+[pl_col pagelayer-id="6ujj2mB58rWoHov2"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="lSJvoHGdZQ1CxAVV"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+What We Do[/pl_heading]
+[pl_divider pagelayer-id="AtYiXwBKxIAlBxQ6"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20" divider_widht_tablet="14"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="Zl4lWblFFbKBa49O"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="" ele_bg_color="#cccfd0ff"]
+[pl_col pagelayer-id="i2rAveVsTVGW59Z7"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="XaiqjSEusLVt3Ux0"  service_image="{{theme_url}}/images/meeting.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Meet & Agree" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInLeft" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="HYHew1q9RThZh4xN"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="zvFhE8ikUt94DRj9"  service_image="{{theme_url}}/images/architecture1.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Planning" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInUp" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="uVFoTI7lCsMz30Gt"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="J2pvSwaZ06gmtkx6"  service_image="{{theme_url}}/images/Interior.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Design & Create" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInRight" animation_delay="600"]
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="OsHQ4JSH1wGx0klw"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/counter-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="GyWapgGu4WZpN9eQ"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="eMC7WYwBIIwoVkat"  counter_start_number="1" counter_end_number="250" animation_duration="2000" counter_align="center" counter_text="Completed Designs" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,600,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="qblgbOkjxekrFWE6"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="zeqG9mynYwfM875F"  counter_start_number="1" counter_end_number="150" animation_duration="2000" counter_align="center" counter_text="Projects" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,600,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="400"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="vIoagSfK4OK0gruP"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="hRe0ALpaUXKczEnl"  counter_start_number="1" counter_end_number="50" animation_duration="2000" counter_align="center" counter_text="Locations" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,500,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="SVlff8kv3r6kHFAc"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="yh4TBe6XVgL1KMYE"  counter_start_number="1" counter_end_number="100" animation_duration="2000" counter_align="center" counter_text="Clients" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,500,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="400"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="RdxOsWLC3YeDqTgy"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="60px,0px,0px,0px"]
+[pl_col pagelayer-id="grMB1D5RFvrUztRQ"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="UG9v3AtWxRp4UQZs"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+Testimonials[/pl_heading]
+[pl_divider pagelayer-id="yUTfTgR0RlyR8elZ"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20" divider_widht_tablet="14"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="l2XVz88C7pHci9KD"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="het29e2Wz1nB0llj"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="GwqA6CLVIiXehJPG"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="100" img_shape="circle" cite="Samantha Smith" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Sales Executive" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[pl_col pagelayer-id="AvuZkgu9edvsS2JX"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="E3ljfVuNE1HUDnaA"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial2.jpg" testimonial_image_size="100" img_shape="circle" cite="Gregory Wilson" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Accountant" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[pl_col pagelayer-id="wNPN4IfRo3wz2wmL"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="MKxUPbCzVZDWvJBB"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial3.jpg" testimonial_image_size="100" img_shape="circle" cite="Robin Tunny" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Assistant Manager" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInRight" animation_delay="600"]
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[/pl_row]

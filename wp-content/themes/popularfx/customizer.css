@@ -1,0 +1,21 @@
+
+.popularfx-edit-link{
+display: block;
+border:1px solid #ccc;
+border-bottom:0px solid #ccc;
+padding: 8px;
+font-size: 14px;
+font-weight: 600;
+font-style: normal;
+text-decoration: none;
+background: #fff;
+}
+
+.popularfx-edit-link:last-of-type{
+margin-bottom: 30px;
+border-bottom:1px solid #ccc;
+}
+
+.popularfx-edit-link:hover{
+background: #efefef;
+}

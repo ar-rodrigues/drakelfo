@@ -1,0 +1,253 @@
+[pl_post_props pagelayer-id="DVP8cX0Y5smTNpoQ"  post_title="Service" post_name="service" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="OPE9u5xZ3etL8Q0F"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/other-pagebg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="k9qIv1giWM5DRhz5"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="COmkOlmExA1KLgsy"  heading_state="normal" color="#ffffffff" heading_typo="Muli,66,,,,,Solid,,,," heading_typo_mobile=",50,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+Our Services[/pl_heading]
+[pl_divider pagelayer-id="624kzPL1Gyfj1WhS"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="12" divider_gap="10" divider_alignment="left" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="1wqGIEFjm4JPFlPS"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="60px,0px,0px,0px" ele_bg_type="" ele_bg_img="{{theme_url}}/images/service-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="0px,0px,0px,0px" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="dDEEwPjojl1JPDjR"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="uad6onYaP85dY36S"  heading_state="normal" color="#121212ff" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+Who We Are[/pl_heading]
+[pl_divider pagelayer-id="vFZ0uDgX9nu5zNi9"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="11" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_inner_row pagelayer-id="ceVGPHlsAYdAtoDR"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="29px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="HDhhCdXa9fZjf7i0"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="JrPP689SQ6eWldli"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Eu turpis egestas" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="ahFB1N1chYqAf0Q6"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="G0yqhiJGlZo8Tgaw"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="aenean pharetra" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="1OclavyCTlsRDVwo"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="AfFlc9Al7gH1lkq3"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="vestibulum lorem" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,Capitalize,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="B4kTCliiqppZz6sV"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/service-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="FSKPqR67qY96j9X4"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="kxlbQKmdU6rczXDP"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+
+Our Services[/pl_heading]
+[pl_divider pagelayer-id="X1b9PDBLHSJ8hpiP"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="11" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="PwKQF30aZ3kZJNzB"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;color:#ffffff;}" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p style="text-align: center; "><span style="font-size: 14px;"> Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. </span></p>[/pl_text]
+[pl_inner_row pagelayer-id="J6i4Fd5PAtUYILKq"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="29px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="NofaahdBBAbhJxGJ"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="zqoOkdMA8FR6BEtb"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Commercial Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" heading_alignment_mobile="center" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="C4yTuBnnV9gOEmHe"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="0CMENF1wSDwEetRV"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Residential Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="LpiD5eieopZdyvpu"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="60ZsGueIS2rLxpvY"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Office Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="0oBqztv1dX92mzQv"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="060px,0px,0px,0px"]
+[pl_col pagelayer-id="goKG3I3wce2KDRIP"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="hj7wnfkCzeKgkELA"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+What We Do[/pl_heading]
+[pl_divider pagelayer-id="FoCE484b9XUPwJ3i"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="hhTWXzxJUDVyO8KK"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="" ele_bg_color="#cccfd0ff"]
+[pl_col pagelayer-id="t9txeqkr7ycNof57"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="a7IUbOonaYjzhbgV"  service_image="{{theme_url}}/images/meeting.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Meet & Agree" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,24,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="AGFDuFB0KdBYMBJl"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="TB0LuUE58bevdzri"  service_image="{{theme_url}}/images/architecture1.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Project Planning" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="Y1MfuaTlFUHh244r"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="uWIgiG3VSCRltztc"  service_image="{{theme_url}}/images/Interior.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Design & Create" heading_alignment="center" service_title_spacing=",,10," heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p{font-family:poppins; font-weight:400;}" service_image_custom_size="130" ele_padding="25px,25px,25px,25px" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+<p><span style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</span></p>[/pl_service]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="4pqu2ocnral2QNBj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="60px,0px,0px,0px"]
+[pl_col pagelayer-id="4oSwRfgGDfxmRM9U"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="eMZL2h7PWjg8tHr4"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+Our Projects[/pl_heading]
+[pl_divider pagelayer-id="jbwqBKFBu00cRWkD"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="VJ98RT9bgMBrlGnn"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="40px,0px,0px,0px"]
+[pl_col pagelayer-id="x4xFhOk97tsH3foc"  widget_space="0" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="xKesgh52t4TBDXjd"  id="{{theme_url}}/images/project1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="pJvwFmmf7PTRh8zY"  id="{{theme_url}}/images/project2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="7TGVQ9SRCTE4AjNw"  id="{{theme_url}}/images/project5.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="u21695JNU48VLD8c"  widget_space="0" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="1tahrFrwfz0pAAhM"  id="{{theme_url}}/images/project3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="ONqGZfRrayodHxxl"  id="{{theme_url}}/images/project4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+[/pl_image]
+[pl_btn pagelayer-id="B3zngBr80cj7s6qO"  text="Explore Our Work" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_typo="Poppins,14,,,,,Solid,,,," btn_custom_size="35" btn_bg_color="" btn_color="#2196f3ff" btn_bg_color_hover="#1976d2ff" btn_border_type="solid" btn_border_color="#2196f3ff" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_hover="hover" ele_margin="0100px,0px,0px,0px" btn_bor_hover="" btn_color_hover="#ffffffff" btn_border_type_hover="solid" btn_border_color_hover="#1976d2ff" btn_border_width_hover="1,1,1,1" icon="fas fa-arrow-right"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="2hX6h1KuPdQFwDGw"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px"]
+[pl_col pagelayer-id="uFkq8kREG6mfU1PI"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="OkXOpXzdd5xuWslP"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+Meet Our Team[/pl_heading]
+[pl_divider pagelayer-id="jcgArvOkhDzYaaUk"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="eMHooZ9DLM1CQxG4"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="30px,0px,0px,0px" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="PoEPqPbT1qNWECIs"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="gXekBrjU6adYIaT1"  service_image="{{theme_url}}/images/team1.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Rajesh Pal" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#2196f3ff" service_heading_typo="Poppins,24,,500,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="5,0,15,0" ele_css="{{element}} .pagelayer-service-text {font-family:poppins; font-weight:400;}" animation="fadeInLeft" animation_delay="600"]
+
+
+
+Interior Designer[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="5QOp6ZlaHy9HeChn"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="8iuTeHdywnynrduT"  service_image="{{theme_url}}/images/team2.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="William Gibson" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#2196f3ff" service_heading_typo="Poppins,24,,500,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="5,0,15,0" ele_css="{{element}} .pagelayer-service-text {font-family:poppins; font-weight:400;}" animation="fadeInUp" animation_delay="600"]
+
+
+
+Interior Designer[/pl_service]
+[/pl_col]
+[pl_col pagelayer-id="WBGLUQaDI2oxnhvB"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_service pagelayer-id="6FXKTyLNH30Aj5BJ"  service_image="{{theme_url}}/images/team3.jpg" service_image_size="full" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Samantha Jones" heading_alignment="center" service_title_spacing="15,0,10,0" heading_state="normal" service_heading_color="#2196f3ff" service_heading_typo="Poppins,24,,500,,,Solid,,,," heading_transition="400" service_text_alignment="center" service_btn_hover_delay="400" service_content_spacing="5,0,15,0" ele_css="{{element}} .pagelayer-service-text {font-family:poppins; font-weight:400;}" animation="fadeInRight" animation_delay="600"]
+
+
+
+Interior Designer[/pl_service]
+[/pl_col]
+[/pl_row]

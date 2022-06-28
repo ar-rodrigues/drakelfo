@@ -1,0 +1,301 @@
+[pl_post_props pagelayer-id="lGSpmsfpdE9RzTN2"  post_title="Home" post_name="home" post_status="publish" featured_image="" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="7vfk1XekcMUIiNTy"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/home-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff" ele_padding="100px,0px,100px,0px"]
+[pl_col pagelayer-id="l8UGMtNg0r5IDyGp"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="arDb7k13vIoSq5Wp"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Muli,65,,,,,Solid,,Capitalize,," heading_typo_mobile=",50,,,,,Solid,,,," animation="zoomIn" animation_delay="600"]
+
+
+
+
+
+
+
+We design your homes.[/pl_heading]
+[pl_divider pagelayer-id="hYFk87LMKsgReWEE"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="Bh94aCneYwL28171"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;color:#ffffff;}" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+<p style="text-align: center; "><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. </span></p>[/pl_text]
+[pl_btn pagelayer-id="PQxLfFXR6wiPSTta"  text="Read More" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Poppins,14,,,,,Solid,,,," btn_custom_size="30" btn_bg_color="#2196f3ff" btn_color="#ffffff" btn_bg_color_hover="#1976d2ff" btn_border_type="solid" btn_border_color="#42414f" btn_border_radius="0,0,0,0" btn_border_width="0,0,0,0" btn_hover="hover"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="mUqnMhiZWsWJZUnk"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="60px,0px,0px,0px"]
+[pl_col pagelayer-id="UYE1cMKoUfusmOsS"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="GAREqH4lLqMK4W52"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+
+Welcome to Artville Design[/pl_heading]
+[pl_divider pagelayer-id="CFhCzAqs4cRfNpiD"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="VC99dWJTmBn7tazP"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+<p style="text-align: center; "><span style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. </span></p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="yKhGLA1EwBpfuaf6"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="60px,0px,0px,0px"]
+[pl_col pagelayer-id="k9ZHarsnQ4nSFvfY"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="a6hQd6Bo1EqaQukN"  id="{{theme_url}}/images/home-img1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="nZ24Co4G2RlhcGp2"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" animation="fadeInUp" animation_delay="600"]
+[pl_heading pagelayer-id="bJmZl9HqectF0qY9"  heading_state="normal" color="#111111" align="left" heading_typo="Muli,24,,500,,,Solid,,,," ele_margin_tablet="30px,0px,0px,0px" ele_margin_mobile="30px,0px,0px,0px"]
+
+
+
+
+
+
+
+The Award Winning[/pl_heading]
+[pl_heading pagelayer-id="JYSb1mnuyGB3PrKw"  heading_state="normal" color="#2196f3ff" heading_typo="Muli,60,,600,,,Solid,,Uppercase,3.5,"]
+
+
+
+
+
+
+
+Interior[/pl_heading]
+[pl_text pagelayer-id="4uqpXowv9ohAxftt"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}"]
+
+
+
+
+
+
+<p style="font-size: 14px;">Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum lorem ipsum doler sit a met. Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="RbOFUankXTamxAYG"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px"]
+[pl_col pagelayer-id="6iTY3iu5HdpZEUdd"  widget_space="15" overlay_hover_delay="400" col="6" content_pos="center" animation="fadeInLeft" animation_delay="600"]
+[pl_heading pagelayer-id="WG9oDJ5h8qKg5AME"  heading_state="normal" color="#111111" align="left" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,,"]
+
+
+
+
+
+
+About Us[/pl_heading]
+[pl_divider pagelayer-id="5Sv6KVaqhxCFWZvu"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="15" divider_gap="10" divider_alignment="left" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="HJZfdHJebhTLBPlL"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}"]
+
+
+
+
+
+
+<p style="font-size: 14px;">Turpis in eu mi bibendum neque egestas congue quisque. Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Magnam, consequatur quas ratione eaque praesentium eligendi voluptatum at harum mollitia rem veritatis accusantium pariatur.</p>[/pl_text]
+[pl_text pagelayer-id="RRAtIijA8WWqKDfP"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;}"]
+
+
+
+
+
+
+<p style="font-size: 14px;">Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p>[/pl_text]
+[pl_btn pagelayer-id="cT1R8llpD7V34dKb"  text="Read More" align="left" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" btn_typo="Poppins,14,,,,,Solid,,,," btn_custom_size="25" btn_bg_color="" btn_color="#2196f3ff" btn_bg_color_hover="#1976d2ff" btn_border_type="solid" btn_border_color="#2196f3ff" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_hover="hover" ele_margin="20px,0px,0px,0px" btn_bor_hover="" btn_color_hover="#ffffffff" btn_border_type_hover="solid" btn_border_color_hover="#1976d2ff" btn_border_width_hover="1,1,1,1"]
+[/pl_btn]
+[/pl_col]
+[pl_col pagelayer-id="xlbKw8YEjEiaQaH8"  widget_space="15" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="AMe5vKhWrtjZO5Gj"  id="{{theme_url}}/images/home-img3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="oxO29GB9a3gi48EV"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/counter-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="VkX7sOpJuO9Wfsox"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="hLDxjbSHz9AylQ4F"  counter_start_number="1" counter_end_number="250" animation_duration="2000" counter_align="center" counter_text="Completed Designs" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,600,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="l4bm9yfTIf5LQCEe"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="op5YRjdDiPlpuANM"  counter_start_number="1" counter_end_number="150" animation_duration="2000" counter_align="center" counter_text="Projects" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,600,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="400"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="zeEr5aGsCKrl9Sff"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="tRql9boOfObxeLq3"  counter_start_number="1" counter_end_number="50" animation_duration="2000" counter_align="center" counter_text="Locations" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,500,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="600"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="3zl3j8orIujg4hja"  widget_space="15" overlay_hover_delay="400" col="3"]
+[pl_counter pagelayer-id="Jupo0Hj8048RGn5N"  counter_start_number="1" counter_end_number="100" animation_duration="2000" counter_align="center" counter_text="Clients" counter_text_color="#ffffffff" counter_text_style="Poppins,20,,400,,,Solid,,,," counter_number_color="#2196f3ff" counter_number_style="Muli,60,,500,,,Solid,1.4,,," number_suffix="+" animation="fadeInUp" animation_delay="400"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="vM9uA4AI9vSTHheh"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px"]
+[pl_col pagelayer-id="edjnSNkPnFLtLnjm"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="qjhraftzllcOzAeN"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+Our Projects[/pl_heading]
+[pl_divider pagelayer-id="O4g4355OxALcK7pg"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="4PPV5TX8WdCaqrhv"  stretch="auto" col_gap="0" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="40px,0px,0px,0px"]
+[pl_col pagelayer-id="f4CkiUczKa03hD2A"  widget_space="0" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="uKetxobKJCq2KtNl"  id="{{theme_url}}/images/project1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="W7EgppJp76Zk8VXq"  id="{{theme_url}}/images/project2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="400"]
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="7gUs5HHW3XJlDbNw"  id="{{theme_url}}/images/project5.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="TQYUiY211ujkxDeQ"  widget_space="0" overlay_hover_delay="400" col="6"]
+[pl_image pagelayer-id="q0shiHf1CF33qzPu"  id="{{theme_url}}/images/project3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="qpR8CRiAMolVRfve"  id="{{theme_url}}/images/project4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+[/pl_image]
+[pl_btn pagelayer-id="G9ughT2R09GYs6BD"  text="Explore Our Work" align="center" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-right" icon_spacing="5" btn_typo="Poppins,14,,,,,Solid,,,," btn_custom_size="35" btn_bg_color="" btn_color="#2196f3ff" btn_bg_color_hover="#1976d2ff" btn_border_type="solid" btn_border_color="#2196f3ff" btn_border_radius="0,0,0,0" btn_border_width="1,1,1,1" btn_hover="hover" ele_margin="0100px,0px,0px,0px" btn_bor_hover="" btn_color_hover="#ffffffff" btn_border_type_hover="solid" btn_border_color_hover="#1976d2ff" btn_border_width_hover="1,1,1,1" icon="fas fa-arrow-right" animation="zoomIn" animation_delay="600"]
+[/pl_btn]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="mg6AXIb5hVvqcHDX"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="100px,0px,0px,0px" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/service-bg.jpg" ele_bg_attachment="fixed" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding="100px,0px,100px,0px" overlay_type="color" overlay_transperancy="0.5" overlay_color="#000000ff"]
+[pl_col pagelayer-id="F6XzSJBhm9d4TXwC"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="NZExujMnM0mmTp7q"  heading_state="normal" color="#ffffffff" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+
+Our Services[/pl_heading]
+[pl_divider pagelayer-id="oR1L6Kxbsd7TaFcG"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="11" divider_gap="10" divider_alignment="center" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[pl_text pagelayer-id="eTimMRdDJ50ckpYS"  ele_css="{{element}} .pagelayer-text-holder p{font-family:poppins; line-height:1.8;color:#ffffff;}" ele_custom_pos="true" ele_align="50%" ele_height="auto" ele_custom_width="700px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p style="text-align: center; "><span style="font-size: 14px;"> Eu non diam phasellus vestibulum lorem.Excepteur sint occaecat cupidatat non proident, suntin culpa qui officia deserunt mollit animid est laborum.Phasellus imperdiet lacinia nulla, malesuada semper nibh sodales quis, Duis viverra ipsum dictum. </span></p>[/pl_text]
+[pl_inner_row pagelayer-id="EYYDrNHZwjoG3l4d"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_margin="29px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="KJ7f3wZocNEHx2XZ"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="0OGv46jTBiAflv8X"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Commercial Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="KRS7cKW3rPNB1qsA"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="fN0uNoLWYlZ1BwRf"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Residential Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="2eLyAn1Pj1BTOGr8"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_iconbox pagelayer-id="3CtGnBNa7kom3Fbq"  service_icon="" service_alignment="top" service_vertical_alignment="middle" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#0986c0" service_icon_font_size="75" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Office Design" heading_alignment="center" service_title_spacing="5,0,10,0" heading_state="normal" service_heading_color="#0986c0" service_heading_typo="Muli,26,,600,,,Solid,,,," heading_delay="400" service_text_alignment="center" service_btn_hover_delay="400" ele_css="{{element}} .pagelayer-service-text p {font-family:poppins; font-weight:400; line-height:1.6}" ele_padding="25px,25px,25px,25px" service_button="true" iconbox_button_type="pagelayer-btn-custom" service_button_size="pagelayer-btn-custom" service_button_text="Read More" service_btn_state="normal" service_button_color="#0986c0ff" service_button_bg_color="" service_btn_dim="7,25" service_button_typo="Poppins,14,,500,,,Solid,1.6,,," service_btn_spacing="0,0,10,0" service_content_spacing="10,0,10,0" ele_shadow="0,0,0,#e9e9e9ff,0," btn_border_type="solid" btn_border_width="1,1,1,1" btn_border_color="#0986c0ff" service_button_color_hover="#ffffffff" service_button_bg_color_hover="#0986c0ff" ele_bg_type="color" ele_bg_color="#ffffffff" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_iconbox]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="a4Xi8qm3Nh90CbvN"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="60px,0px,0px,0px"]
+[pl_col pagelayer-id="tzsqcABRF9H4AFWV"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="CIzeJvCcWvyh1LHm"  heading_state="normal" color="#111111" align="center" heading_typo="Muli,50,,400,,,Solid,,,," heading_typo_mobile=",45,,,,,Solid,,,," animation="fadeInDown" animation_delay="600"]
+
+
+
+
+
+Testimonials[/pl_heading]
+[pl_divider pagelayer-id="KbDCMl9gItJLlXK2"  divider_style="solid" divider_color="#2196f3ff" divider_weight="3" divider_widht="10" divider_gap="10" divider_alignment="center" divider_widht_tablet="14" divider_widht_mobile="20"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="7kkpXFa5AjwGI13p"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="0px,0px,60px,0px"]
+[pl_col pagelayer-id="EjH6mKCVPMtgj64F"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="6pFJlTd9Vggve5D6"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="100" img_shape="circle" cite="Samantha Smith" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Sales Executive" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[pl_col pagelayer-id="iXMK37rnzVinpfrw"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="vmaz1Sh1eLw4BqBI"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial2.jpg" testimonial_image_size="100" img_shape="circle" cite="Gregory Wilson" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Accountant" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[pl_col pagelayer-id="dAjuHA2z3XaxAtW3"  widget_space="15" overlay_hover_delay="400" col="4"]
+[pl_testimonial pagelayer-id="FZ9Qlgqi0E4VKfkA"  image_position="aside-position" alignment="left" author-spacing="20" avatar="{{theme_url}}/images/testimonial3.jpg" testimonial_image_size="100" img_shape="circle" cite="Robin Tunny" cite_color="#121212ff" cite_style="Poppins,20,,500,,,Solid,,,," designation="Assistant Manager" designation_color="#2196f3ff" cite_designation_style="Poppins,16,,400,,,Solid,,,," cite_spacing="0,0,0,7" ele_css="{{element}} .pagelayer-testimonial-content p{font-family:poppins; font-weight:400;}" ele_padding="20px,20px,20px,20px" ele_shadow="1,1,10,#f0efefff,6," animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+<p style="font-size: 14px;">The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>[/pl_testimonial]
+[/pl_col]
+[/pl_row]

@@ -1,0 +1,10 @@
+PROCESSED on Fri, 30 Jul 2021 18:37:02 +0000
+/wp-includes/css/dist/block-library/style.min.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/custom-products-for-woocommerce/public/css/jquery-ui.min.css
+/wp-content/plugins/custom-products-for-woocommerce/public/css/woocp-public.css
+/wp-content/plugins/custom-products-for-woocommerce/public/css/woocp-custom.css
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css
+PROCESSED from https://drakelfo.mx/

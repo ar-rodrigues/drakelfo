@@ -1,0 +1,32 @@
+2022-06-24T02:57:50+00:00 CRITICAL Cannot redeclare get_image() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:34) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 34
+
+2022-06-24T03:09:24+00:00 CRITICAL Cannot redeclare get_image() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:173) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 173
+
+2022-06-24T03:24:19+00:00 CRITICAL Cannot redeclare get_image() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:173) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 173
+
+2022-06-24T20:16:17+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:22:10+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:28:56+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:31:50+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:35:44+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:38:32+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:45:45+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:48:14+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T20:53:32+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T21:00:13+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:172) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 172
+
+2022-06-24T21:20:25+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:173) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 173
+
+2022-06-24T21:25:30+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:173) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 173
+
+2022-06-24T21:45:40+00:00 CRITICAL Cannot redeclare url_exists() (previously declared in /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php:49) en /home/alisson/Local Sites/drakelfo/app/public/wp-content/themes/pcgames/core/pch_importer.php en la línea 49
+

@@ -1,0 +1,499 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Products for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-18 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: custom-products-for-woocommerce.php:98
+msgid ""
+"Custom Products for WooCommerce is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: admin/class-woocp-admin.php:73 admin/class-woocp-admin.php:95
+#: admin/class-woocp-admin.php:526
+msgid "Image"
+msgstr ""
+
+#: admin/class-woocp-admin.php:79 admin/class-woocp-admin.php:104
+msgid "Add Image"
+msgstr ""
+
+#: admin/class-woocp-admin.php:80 admin/class-woocp-admin.php:105
+msgid "Remove Image"
+msgstr ""
+
+#: admin/class-woocp-admin.php:174 admin/class-woocp-admin.php:448
+msgid "Custom Products"
+msgstr ""
+
+#: admin/class-woocp-admin.php:190
+#, php-format
+msgid ""
+"Upgrade to  <a style=\"margin:0 5px;\" class=\"woocp_pro_label\" href=\"%s\" "
+"target=\"_blank\"><b>%s Premium</b></a> and get acces to more features like "
+"clickable tags and customization fees!<br/>View a list of all available "
+"features <a href=\"%s\" target=\"_blank\">%s</a>."
+msgstr ""
+
+#: admin/class-woocp-admin.php:190 includes/class-woocp.php:828
+msgid "here"
+msgstr ""
+
+#: admin/class-woocp-admin.php:207
+msgid "Display settings"
+msgstr ""
+
+#: admin/class-woocp-admin.php:209
+msgid ""
+"These settings affect how and where product customizer is displayed on front-"
+"end."
+msgstr ""
+
+#: admin/class-woocp-admin.php:213
+msgid "Product page button"
+msgstr ""
+
+#: admin/class-woocp-admin.php:215
+msgid "Show Customizer button on product page."
+msgstr ""
+
+#: admin/class-woocp-admin.php:222
+msgid "Component arrow"
+msgstr ""
+
+#: admin/class-woocp-admin.php:224
+msgid ""
+"Show arrows on Customizer components, indicating that they can be expanded."
+msgstr ""
+
+#: admin/class-woocp-admin.php:231
+msgid "Component description"
+msgstr ""
+
+#: admin/class-woocp-admin.php:233
+msgid "Show a description of the component."
+msgstr ""
+
+#: admin/class-woocp-admin.php:240
+msgid "Customize button position"
+msgstr ""
+
+#: admin/class-woocp-admin.php:246
+msgid ""
+"Select where to show \"Customize\" button on product page.<br/>\"Product "
+"page button\" has to be checked for this to work."
+msgstr ""
+
+#: admin/class-woocp-admin.php:248
+msgid "Before Add to cart"
+msgstr ""
+
+#: admin/class-woocp-admin.php:249
+msgid "After Add to cart"
+msgstr ""
+
+#: admin/class-woocp-admin.php:253
+msgid "Components display"
+msgstr ""
+
+#: admin/class-woocp-admin.php:259
+msgid ""
+"Select how product components will be displayed on page load.<br/>You can "
+"completely disable expanding/collapsing by selecting \"Always expanded\"."
+msgstr ""
+
+#: admin/class-woocp-admin.php:261
+msgid "Collapsed"
+msgstr ""
+
+#: admin/class-woocp-admin.php:262
+msgid "Expanded"
+msgstr ""
+
+#: admin/class-woocp-admin.php:263
+msgid "Always expanded"
+msgstr ""
+
+#: admin/class-woocp-admin.php:267
+msgid "Components position"
+msgstr ""
+
+#: admin/class-woocp-admin.php:273
+msgid "Select on which side product component list will be displayed"
+msgstr ""
+
+#: admin/class-woocp-admin.php:275
+msgid "Left"
+msgstr ""
+
+#: admin/class-woocp-admin.php:276
+msgid "Right"
+msgstr ""
+
+#: admin/class-woocp-admin.php:280
+msgid "\"Customize\" button text"
+msgstr ""
+
+#: admin/class-woocp-admin.php:287
+msgid ""
+"This text will be visible on Customizer tab and button.<br>If you need this "
+"text translated leave it blank, then edit the translation files."
+msgstr ""
+
+#: admin/class-woocp-admin.php:290
+msgid "\"Customized\" text"
+msgstr ""
+
+#: admin/class-woocp-admin.php:297
+msgid ""
+"This text will be visible on cart, checkout and invoice to show what has "
+"been customized on the product.<br>If you need this text translated leave it "
+"blank, then edit the translation files."
+msgstr ""
+
+#: admin/class-woocp-admin.php:300
+msgid "\"Select product\" text"
+msgstr ""
+
+#: admin/class-woocp-admin.php:307
+msgid ""
+"This text will be used as a label for product select in [woocp] shortcode."
+"<br>If you need this text translated leave it blank, then edit the "
+"translation files."
+msgstr ""
+
+#: admin/class-woocp-admin.php:310
+msgid "\"Don't change\" text"
+msgstr ""
+
+#: admin/class-woocp-admin.php:317
+msgid ""
+"This text will be used as the default option for attributes select.<br>If "
+"you need this text translated leave it blank, then edit the translation "
+"files."
+msgstr ""
+
+#: admin/class-woocp-admin.php:320
+msgid "Components title tag"
+msgstr ""
+
+#: admin/class-woocp-admin.php:328
+msgid ""
+"HTML tag for the component title in components list.<br/>Defaults to h3."
+msgstr ""
+
+#: admin/class-woocp-admin.php:335
+msgid "Cutomizer settings"
+msgstr ""
+
+#: admin/class-woocp-admin.php:337
+msgid ""
+"These settings are the defaults for [woocp] shortcode. <b>\"Customizer image "
+"width\"</b> also applies to the product page customizer."
+msgstr ""
+
+#: admin/class-woocp-admin.php:341
+msgid "Customizer width"
+msgstr ""
+
+#: admin/class-woocp-admin.php:347
+msgid ""
+"This setting determines the width of the product customizer.<br/>You can use "
+"any CSS legal value (px, %, em,...).<br/>Valid only for [woocp] shortcode."
+msgstr ""
+
+#: admin/class-woocp-admin.php:350
+msgid "Customizer image width"
+msgstr ""
+
+#: admin/class-woocp-admin.php:356
+msgid ""
+"This setting determines the width of the customizer image in % (relative to "
+"Customizer width).<br/>Defaults to 60%."
+msgstr ""
+
+#: admin/class-woocp-admin.php:359
+msgid "Option image height"
+msgstr ""
+
+#: admin/class-woocp-admin.php:361 admin/class-woocp-admin.php:370
+#: admin/class-woocp-admin.php:379 admin/class-woocp-admin.php:388
+msgid ""
+"For best performance thumbnails should be regenerated after changing this "
+"setting."
+msgstr ""
+
+#: admin/class-woocp-admin.php:365
+msgid ""
+"Attribute option select image height.<br/>Defaults to 40px.<br/>Don't forget "
+"to regenerate thumbnails after changing this setting for best performance. A "
+"third party plugin can be used to achieve this."
+msgstr ""
+
+#: admin/class-woocp-admin.php:368
+msgid "Option image width"
+msgstr ""
+
+#: admin/class-woocp-admin.php:374
+msgid ""
+"Attribute option select image width.<br/>Defaults to 40px.<br/>Don't forget "
+"to regenerate thumbnails after changing this setting for best performance. A "
+"third party plugin can be used to achieve this."
+msgstr ""
+
+#: admin/class-woocp-admin.php:377
+msgid "Product image height"
+msgstr ""
+
+#: admin/class-woocp-admin.php:383 admin/class-woocp-admin.php:392
+msgid ""
+"Product select image height.<br/>Defaults to 40px.<br/>Don't forget to "
+"regenerate thumbnails after changing this setting for best performance. A "
+"third party plugin can be used to achieve this."
+msgstr ""
+
+#: admin/class-woocp-admin.php:386
+msgid "Product image width"
+msgstr ""
+
+#: admin/class-woocp-admin.php:395
+msgid "Customizer URL"
+msgstr ""
+
+#: admin/class-woocp-admin.php:402
+msgid ""
+"URL of a page that contains [woocp] shortcode. Must contain full URL.<br/>If "
+"customizer tab is disabled on full product page, customizer buttons will "
+"redirect to this URL.<br/> Defaults to homepage."
+msgstr ""
+
+#: admin/class-woocp-admin.php:506 includes/class-woocp.php:483
+msgid "Is customizable"
+msgstr ""
+
+#: admin/class-woocp-admin.php:515
+msgid ""
+"You have made changes to components, you should <b>Save Changes</b> when you "
+"are done."
+msgstr ""
+
+#: admin/class-woocp-admin.php:525 includes/class-woocp.php:280
+msgid "Components"
+msgstr ""
+
+#: admin/class-woocp-admin.php:558 admin/class-woocp-admin.php:574
+msgid "Expand"
+msgstr ""
+
+#: admin/class-woocp-admin.php:558 admin/class-woocp-admin.php:574
+msgid "Close"
+msgstr ""
+
+#: admin/class-woocp-admin.php:562
+msgid "Add product component"
+msgstr ""
+
+#: admin/class-woocp-admin.php:566 admin/class-woocp-components.php:108
+msgid "Add"
+msgstr ""
+
+#: admin/class-woocp-admin.php:576
+msgid "Save Changes"
+msgstr ""
+
+#: admin/class-woocp-admin.php:607
+#, php-format
+msgid ""
+"Upgrade to <a style=\"color:orange;\" href=\"%s\" target=\"_blank\">%s "
+"Premium</a> and add clickable tags to your customizer image."
+msgstr ""
+
+#: admin/class-woocp-components.php:86 admin/class-woocp-components.php:144
+msgid "Remove"
+msgstr ""
+
+#: admin/class-woocp-components.php:87
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/class-woocp-components.php:93 admin/class-woocp-components.php:138
+msgid "Name"
+msgstr ""
+
+#: admin/class-woocp-components.php:93
+msgid ""
+"Name of the component that will be visible for the current product only. "
+"Leave blank to use default component name."
+msgstr ""
+
+#: admin/class-woocp-components.php:98
+msgid "Description"
+msgstr ""
+
+#: admin/class-woocp-components.php:98
+msgid ""
+"Component description that will be visible for the current product only. "
+"Leave blank to use default component description."
+msgstr ""
+
+#: admin/class-woocp-components.php:103
+msgid "Add attribute"
+msgstr ""
+
+#: admin/class-woocp-components.php:143
+msgid "Value(s)"
+msgstr ""
+
+#: admin/class-woocp-components.php:152
+msgid "Select all"
+msgstr ""
+
+#: admin/class-woocp-components.php:153
+msgid "Select none"
+msgstr ""
+
+#: includes/class-woocp.php:257
+msgctxt "post type general name"
+msgid "Components"
+msgstr ""
+
+#: includes/class-woocp.php:258
+msgctxt "post type singular name"
+msgid "Component"
+msgstr ""
+
+#: includes/class-woocp.php:259
+msgctxt "admin menu"
+msgid "Components"
+msgstr ""
+
+#: includes/class-woocp.php:260
+msgctxt "add new on admin bar"
+msgid "Component"
+msgstr ""
+
+#: includes/class-woocp.php:261
+msgctxt "product_component"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-woocp.php:262
+msgid "Add New Component"
+msgstr ""
+
+#: includes/class-woocp.php:263
+msgid "New Component"
+msgstr ""
+
+#: includes/class-woocp.php:264
+msgid "Edit Component"
+msgstr ""
+
+#: includes/class-woocp.php:265
+msgid "View Component"
+msgstr ""
+
+#: includes/class-woocp.php:266
+msgid "All Components"
+msgstr ""
+
+#: includes/class-woocp.php:267
+msgid "Search Components"
+msgstr ""
+
+#: includes/class-woocp.php:268
+msgid "Parent Components:"
+msgstr ""
+
+#: includes/class-woocp.php:269
+msgid "No Components found."
+msgstr ""
+
+#: includes/class-woocp.php:270
+msgid "No Components found in Trash."
+msgstr ""
+
+#: includes/class-woocp.php:312
+msgid "Go Premium"
+msgstr ""
+
+#: includes/class-woocp.php:326
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-woocp.php:465 includes/class-woocp.php:483
+msgid "Customizable"
+msgstr ""
+
+#: includes/class-woocp.php:828
+#, php-format
+msgid ""
+"Upgrade to  <a href=\"%s\" target=\"_blank\"><b>%s Premium</b></a> and get "
+"acces to more features like clickable tags and customization fees!<br/>View "
+"a list of all available features <a href=\"%s\" target=\"_blank\">%s</a>."
+msgstr ""
+
+#: public/class-woocp-public.php:151 public/class-woocp-public.php:568
+msgid "Customize"
+msgstr ""
+
+#: public/class-woocp-public.php:313
+msgid "Don't change"
+msgstr ""
+
+#: public/class-woocp-public.php:409
+msgid "Select product"
+msgstr ""
+
+#: public/class-woocp-public.php:467
+msgid "Continue Shopping &rarr;"
+msgstr ""
+
+#: public/class-woocp-public.php:467 public/class-woocp-public.php:470
+msgid "Product successfully added to your cart."
+msgstr ""
+
+#: public/class-woocp-public.php:470
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: public/class-woocp-public.php:524
+msgid "Customized"
+msgstr ""
+
+#: templates/add_to_cart_button.php:13
+msgid "Quantity"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Products for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Offer your visitors a unique shopping experience. Split products into "
+"components and let your visitors customize each one before purchasing."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://grrega.com/projects/custom-products-for-woocommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Grega Radelj"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grrega.com/"
+msgstr ""

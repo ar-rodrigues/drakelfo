@@ -1,0 +1,10 @@
+PROCESSED on Fri, 30 Jul 2021 18:37:02 +0000
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css
+/wp-content/plugins/flexible-shipping/vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/assets/css/notices.css
+/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css
+/wp-content/themes/pcgames/assets/css/all.min.css
+/wp-content/themes/pcgames/assets/css/owl.carousel.min.css
+/wp-content/themes/pcgames/assets/css/animate.min.css
+/wp-content/themes/pcgames/assets/css/general.min.css
+/wp-content/themes/pcgames/assets/css/custom.min.css
+PROCESSED from https://drakelfo.mx/

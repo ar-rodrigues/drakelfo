@@ -1,0 +1,1039 @@
+********************************************************************************
+* DUPLICATOR-LITE: Install-Log
+* STEP-1 START @ 03:53:40
+* VERSION: 1.4.6
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 8.0.16                                |7.4.1
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2022-05-20 03:41:09
+WP VERSION__________: 5.8.4
+DUP VERSION_________: 1.4.6
+DB__________________: 5.7.23
+DB TABLES___________: 61
+DB ROWS_____________: 61,548
+DB FILE SIZE________: 27.38MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.1 | SAPI: fpm-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: nginx/1.16.0
+DOC ROOT____________: "/home/alisson/Local Sites/drakelfo/app/public"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "https://drakelfo.local/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "manual"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/home/alisson/Local Sites/drakelfo/app/public/20220520_drakelfogamingpc_[HASH]_20220520034109_archive.zip"
+
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' backed-up to .htaccess-220604035340-629ad744592a5-duplicator.bak
+- PASS: Existing Apache '.htaccess' was removed
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+--------------------------------------
+POST-EXTRACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 03:53:50 - RUNTIME: 10.3206 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 03:54:42
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 8.0.16 -- Build Server: 5.7.23
+FILE SIZE:	dup-database__[HASH].sql (6.91MB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/home/alisson/Local Sites/drakelfo/app/public/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	13
+RENAMED TABLES:	0
+QUERIES RAN:	558
+
+wppl_actionscheduler_actions: (629)
+wppl_actionscheduler_claims: (1)
+wppl_actionscheduler_groups: (6)
+wppl_actionscheduler_logs: (1885)
+wppl_afap_logs: (5)
+wppl_commentmeta: (0)
+wppl_comments: (28)
+wppl_duplicator_packages: (0)
+wppl_fvm_cache: (0)
+wppl_fvm_logs: (0)
+wppl_links: (0)
+wppl_options: (599)
+wppl_pmxi_files: (1)
+wppl_pmxi_hash: (1175)
+wppl_pmxi_history: (10)
+wppl_pmxi_images: (266)
+wppl_pmxi_imports: (2)
+wppl_pmxi_posts: (1175)
+wppl_pmxi_templates: (1)
+wppl_postmeta: (37657)
+wppl_posts: (1865)
+wppl_rio_process_queue: (97)
+wppl_search_filter_cache: (12405)
+wppl_search_filter_term_results: (1659)
+wppl_smush_dir_images: (0)
+wppl_term_relationships: (5905)
+wppl_term_taxonomy: (565)
+wppl_termmeta: (563)
+wppl_terms: (565)
+wppl_usermeta: (749)
+wppl_users: (41)
+wppl_wc_admin_note_actions: (95)
+wppl_wc_admin_notes: (83)
+wppl_wc_category_lookup: (327)
+wppl_wc_customer_lookup: (12)
+wppl_wc_download_log: (0)
+wppl_wc_order_coupon_lookup: (0)
+wppl_wc_order_product_lookup: (8)
+wppl_wc_order_stats: (8)
+wppl_wc_order_tax_lookup: (0)
+wppl_wc_product_attributes_lookup: (0)
+wppl_wc_product_download_directories: (0)
+wppl_wc_product_meta_lookup: (1188)
+wppl_wc_rate_limits: (0)
+wppl_wc_reserved_stock: (0)
+wppl_wc_tax_rate_classes: (4)
+wppl_wc_webhooks: (0)
+wppl_woocommerce_api_keys: (1)
+wppl_woocommerce_attribute_taxonomies: (12)
+wppl_woocommerce_downloadable_product_permissions: (0)
+wppl_woocommerce_log: (0)
+wppl_woocommerce_order_itemmeta: (208)
+wppl_woocommerce_order_items: (28)
+wppl_woocommerce_payment_tokenmeta: (0)
+wppl_woocommerce_payment_tokens: (0)
+wppl_woocommerce_sessions: (1)
+wppl_woocommerce_shipping_zone_locations: (1)
+wppl_woocommerce_shipping_zone_methods: (2)
+wppl_woocommerce_shipping_zones: (1)
+wppl_woocommerce_tax_rate_locations: (0)
+wppl_woocommerce_tax_rates: (0)
+Removed '294' cache/transient rows
+
+INSERT DATA RUNTIME: 31.5456 sec.
+STEP-2 COMPLETE @ 03:55:14 - RUNTIME: 31.7101 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+htaccess ark file don' exists
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:55:24
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Drakelfo Gaming PC"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home4/drakelfo/public_html"
+path_new______________: "/home/alisson/Local Sites/drakelfo/app/public"
+siteurl_______________: "https://drakelfo.local"
+url_old_______________: "https://drakelfo.mx"
+url_new_______________: "https://drakelfo.local"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wppl_actionscheduler_actions"____________________[ROWS:   629][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_actionscheduler_claims"_____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_actionscheduler_groups"_____________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_actionscheduler_logs"_______________________[ROWS:  1885][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_afap_logs"__________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_comments"___________________________________[ROWS:    28][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_duplicator_packages"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_fvm_cache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_fvm_logs"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_options"____________________________________[ROWS:   599][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_files"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_hash"__________________________________[ROWS:  1175][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_history"_______________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_images"________________________________[ROWS:   266][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_imports"_______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_posts"_________________________________[ROWS:  1175][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_pmxi_templates"_____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_postmeta"___________________________________[ROWS: 37657][PG:  11][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_posts"______________________________________[ROWS:  1865][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_rio_process_queue"__________________________[ROWS:    97][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_search_filter_cache"________________________[ROWS: 12405][PG:   4][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_search_filter_term_results"_________________[ROWS:  1659][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_smush_dir_images"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_term_relationships"_________________________[ROWS:  5905][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_term_taxonomy"______________________________[ROWS:   565][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_termmeta"___________________________________[ROWS:   563][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_terms"______________________________________[ROWS:   565][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_usermeta"___________________________________[ROWS:   749][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_users"______________________________________[ROWS:    41][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_admin_note_actions"______________________[ROWS:    95][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_admin_notes"_____________________________[ROWS:    83][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_category_lookup"_________________________[ROWS:   327][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_customer_lookup"_________________________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_download_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_order_coupon_lookup"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_order_product_lookup"____________________[ROWS:     8][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_order_stats"_____________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_order_tax_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_product_attributes_lookup"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_product_download_directories"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_product_meta_lookup"_____________________[ROWS:  1188][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_rate_limits"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_reserved_stock"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_wc_tax_rate_classes"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_wc_webhooks"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_api_keys"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_attribute_taxonomies"___________[ROWS:    12][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_log"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_order_itemmeta"_________________[ROWS:   208][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_order_items"____________________[ROWS:    28][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_payment_tokenmeta"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_payment_tokens"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_sessions"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_shipping_zone_locations"________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_shipping_zone_methods"__________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_shipping_zones"_________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home4/drakelfo/public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  2:"\/home4\/drakelfo\/public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  3:"%2Fhome4%2Fdrakelfo%2Fpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  4:"\home4\drakelfo\public_html" =====================> "/home/alisson/Local Sites/drakelfo/app/public"
+	SEARCH  5:"\\home4\\drakelfo\\public_html" ==================> "\/home\/alisson\/Local Sites\/drakelfo\/app\/public"
+	SEARCH  6:"%5Chome4%5Cdrakelfo%5Cpublic_html" ===============> "%2Fhome%2Falisson%2FLocal+Sites%2Fdrakelfo%2Fapp%2Fpublic"
+	SEARCH  7:"//drakelfo.mx" ===================================> "//drakelfo.local"
+	SEARCH  8:"\/\/drakelfo.mx" =================================> "\/\/drakelfo.local"
+	SEARCH  9:"%2F%2Fdrakelfo.mx" ===============================> "%2F%2Fdrakelfo.local"
+	SEARCH 10:"//www.drakelfo.mx" ===============================> "//drakelfo.local"
+	SEARCH 11:"\/\/www.drakelfo.mx" =============================> "\/\/drakelfo.local"
+	SEARCH 12:"%2F%2Fwww.drakelfo.mx" ===========================> "%2F%2Fdrakelfo.local"
+	SEARCH 13:"http://drakelfo.local" ===========================> "https://drakelfo.local"
+	SEARCH 14:"http:\/\/drakelfo.local" =========================> "https:\/\/drakelfo.local"
+	SEARCH 15:"http%3A%2F%2Fdrakelfo.local" =====================> "https%3A%2F%2Fdrakelfo.local"
+
+EVALUATE TABLE: "wppl_woocommerce_tax_rate_locations"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wppl_woocommerce_tax_rates"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:61 	|	 Rows:69833 	|	 Cells:387261 
+UPDATED:	Tables:6 	|	 Rows:3322 	|	 Cells:3342 
+ERRORS:		0 
+RUNTIME:	19.771300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Auto Deactivated plugins list here: Array
+(
+    [0] => simple-google-recaptcha/simple-google-recaptcha.php
+    [1] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+[PHP ERR][WARN] MSG:file_get_contents(/home/alisson/Local Sites/drakelfo/app/public/dup-installer/dup-orig-htaccess__[HASH].txt): failed to open stream: No such file or directory [CODE:2|FILE:/home/alisson/Local Sites/drakelfo/app/public/dup-installer/classes/class.s3.func.php|LINE:1223]
+
+STEP-3 COMPLETE @ 03:55:44 - RUNTIME: 20.0304 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

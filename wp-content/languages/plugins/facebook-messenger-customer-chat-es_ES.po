@@ -1,0 +1,175 @@
+# Translation of Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-02 21:32:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk)\n"
+
+#. Plugin Name of the plugin
+msgid "Facebook Chat Plugin - Live Chat Plugin for WordPress"
+msgstr "Facebook Chat Plugin - Live Chat Plugin for WordPress"
+
+#: facebook-messenger-customer-chat.php:343
+msgid "Thank you."
+msgstr "Gracias."
+
+#: facebook-messenger-customer-chat.php:344
+msgid "We appreciate your feedback."
+msgstr "Agradecemos tus comentarios."
+
+#: facebook-messenger-customer-chat.php:421
+msgid "How is the Facebook Chat plugin working out for you and your visitors?"
+msgstr "¿Qué tal funciona el plugin de chat de Facebook para ti y para tus visitantes?"
+
+#: facebook-messenger-customer-chat.php:423
+msgid "We'd love to hear your feedback!"
+msgstr "¡Nos encantaría escuchar tus comentarios!"
+
+#: facebook-messenger-customer-chat.php:425
+msgid "Please leave us a review."
+msgstr "Por favor, déjanos una reseña."
+
+#: options.php:438
+msgid "Saving settings..."
+msgstr "Guardando ajustes…"
+
+#: options.php:434
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: options.php:430
+msgid "Error saving settings."
+msgstr "Error al guardar los ajustes."
+
+#: options.php:252
+msgid "Advanced Configuration"
+msgstr "Configuración avanzada"
+
+#: options.php:202
+msgid "Getting Started?"
+msgstr "¿Empezando?"
+
+#: facebook-messenger-customer-chat.php:335
+msgid "Submit"
+msgstr "Enviar"
+
+#: facebook-messenger-customer-chat.php:327
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: facebook-messenger-customer-chat.php:320
+msgid "Other"
+msgstr "Otro"
+
+#: facebook-messenger-customer-chat.php:313
+msgid "This is a temporary deactivation. I’ll be back!"
+msgstr "Es una desactivación temporal. ¡Volveré!"
+
+#: facebook-messenger-customer-chat.php:265
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: facebook-messenger-customer-chat.php:292
+msgid "I’m unable to get the plugin to work"
+msgstr "No pude conseguir que el plugin funcionara"
+
+#: facebook-messenger-customer-chat.php:280
+msgid "We value your feedback."
+msgstr "Valoramos tu opinión."
+
+#: options.php:195
+msgid "Facebook Chat Plugin Settings"
+msgstr "Ajustes del plugin Facebook Chat"
+
+#: options.php:237
+msgid "Setup status"
+msgstr "Estado de configuración"
+
+#: options.php:470
+msgid "If the troubleshooting steps in the guide do not solve your problem, please post in the plugin support forum."
+msgstr "Si los pasos de diagnóstico de la guía no resuelven tu problema, por favor, publícalo en el foro de soporte del plugin."
+
+#: options.php:464
+msgid "Please consult our Troubleshooting Guide."
+msgstr "Por favor, consulta nuestra guía de diagnóstico."
+
+#: options.php:458
+msgid "Having a problem setting up or using the Chat Plugin?"
+msgstr "¿Estás teniendo algún problema configurando o usando el plugin de chat?"
+
+#: options.php:453
+msgid "Use of this plugin is subject to Facebook's Platform Terms"
+msgstr "El uso de este plugin está sujeto a los términos de la plataforma Facebook"
+
+#: options.php:260
+msgid "Deploy Chat plugin on:"
+msgstr "Uso del plugin de chat en:"
+
+#: facebook-messenger-customer-chat.php:306
+msgid "I’m using a different live chat plugin"
+msgstr "Estoy usando un plugin de chat en directo diferente"
+
+#: facebook-messenger-customer-chat.php:299
+msgid "I no longer need a live chat feature"
+msgstr "Ya no necesito la característica de chat en directo"
+
+#: facebook-messenger-customer-chat.php:284
+msgid "Please let us know why you’re deactivating Facebook Chat Plugin."
+msgstr "Por favor, déjanos saber por qué estás desactivando el plugin Facebook Chat."
+
+#: options.php:242
+msgid ""
+"The plugin code has already been added.\n"
+"\t\t\t\t\t\tinto your website. You can always go back through the setup process\n"
+"\t\t\t\t\t\tto customize the plugin."
+msgstr ""
+"El código del plugin ya ha sido añadido\n"
+"\t\t\t\t\t\t a tu web. Siempre puedes volver atrás en el proceso de configuración\n"
+"\t\t\t\t\t\t para personalizar el plugin."
+
+#: options.php:207
+msgid ""
+"Let people start a conversation on\n"
+"\t\t\t\t\t\t\tyour website and continue in Messenger. It's easy to set up. Chats\n"
+"\t\t\t\t\t\t\tstarted on your website can be continued in the customers'\n"
+"\t\t\t\t\t\t\tMessenger app, so you never lose connections with your customers.\n"
+"\t\t\t\t\t\t\tEven those without a Facebook Messenger account can chat with you\n"
+"\t\t\t\t\t\t\tin guest mode, so you can reach more customers than ever."
+msgstr ""
+"Permite a la gente iniciar una conversación en\n"
+"\t\t\t\t\t\t\ttu web y seguirla en Messenger. Es fácil de configurar. Los chats\n"
+"\t\t\t\t\t\t\tiniciados en tu web, pueden seguirse en la aplicación'\n"
+"\t\t\t\t\t\t\tMessenger de tus clientes, para que nunca pierdas conexiones con tus clientes.\n"
+"\t\t\t\t\t\t\tIncluso los que no tengan una cuenta de Facebook Messenger pueden chatear contigo\n"
+"\t\t\t\t\t\t\t en el modo de invitado, para que puedas llegar a más clientes que nunca. "
+
+#. Description of the plugin
+msgid "With a few clicks, you can add the Facebook Chat Plugin to your website, enabling customers to message you while browsing your website. To see and reply to those messages, simply use the same messaging tools you use for your Facebook messaging, on desktop at facebook.com, Facebook Page Manager App (available on iOS and Android), or by adding your page account to Messenger. It's free, easy to install and comes with a user interface your customers are already familiar with."
+msgstr "Con unos pocos clics, puedes añadir el plugin de chat de Facebook a tu web, lo que permite a los clientes enviarte mensajes mientras navegan por tu web. Para ver y responder a esos mensajes, simplemente usa las mismas herramientas de mensajería que utilizas para tu mensajería de Facebook, en el equipo de escritorio en facebook.com, en la aplicación Facebook Page Manager (disponible en iOS y Android) o añadiendo la cuenta de tu página a Messenger. Es gratis, fácil de instalar y viene con una interfaz de usuario con la que sus clientes ya están familiarizados."
+
+#. Author URI of the plugin
+msgid "https://developers.facebook.com"
+msgstr "https://developers.facebook.com"
+
+#: options.php:224
+msgid "Setup Chat Plugin"
+msgstr "Configurar el plugin de chat"
+
+#: facebook-messenger-customer-chat.php:103
+#: facebook-messenger-customer-chat.php:133
+msgid "Settings"
+msgstr "Ajustes"
+
+#: facebook-messenger-customer-chat.php:140
+msgid "FAQ"
+msgstr "FAQ"
+
+#: facebook-messenger-customer-chat.php:145
+msgid "Support"
+msgstr "Soporte"

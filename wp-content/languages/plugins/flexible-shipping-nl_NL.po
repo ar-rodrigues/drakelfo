@@ -1,0 +1,2128 @@
+# Translation of Plugins - Table Rate Shipping Method for WooCommerce by Flexible Shipping - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Table Rate Shipping Method for WooCommerce by Flexible Shipping - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-23 14:49:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Table Rate Shipping Method for WooCommerce by Flexible Shipping - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Octolize"
+msgstr "Octolize"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:46
+msgid "https://octol.io/fs-2-docs"
+msgstr "https://octol.io/fs-2-docs"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:70
+msgid "Current settings and usage information of %1$s plugins"
+msgstr "Huidige instellingen en gebruiksinformatie van %1$s plugins"
+
+#: src/WPDesk/FS/Tracker/TrackerNotices.php:56
+msgid "Thank you in advance!%1$s~ Octolize Team"
+msgstr "Dank je wel op voorhand!%1$s~ Octolize Team"
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:232
+msgid "https://octol.io/onboarding-docs"
+msgstr "https://octol.io/onboarding-docs"
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:226
+msgid "https://octol.io/onboarding-sc"
+msgstr "https://octol.io/onboarding-sc"
+
+#. Author URI of the plugin
+msgid "https://octol.io/fs-author"
+msgstr "https://octol.io/fs-author"
+
+#. Translators: strong, version, /strong, strong, /strong, link, link.
+#: src/WPDesk/FS/ProVersion/ProVersionUpdateReminder.php:53
+msgid "The %1$sFlexible Shipping PRO %2$s%3$s version you are currently using is severely %4$soutdated%5$s. Its further use may result in onward %4$scompatibility issues%5$s. In order to perform the update, please copy your plugin API key from %6$sMy Account / API keys%7$s tab and activate it in your store. If your subscription expired and you don’t own an active one at the moment, please %8$srenew the subscription →%9$s"
+msgstr "De %1$sFlexible Shipping PRO %2$s%3$s versie die je momenteel gebruikt is ernstig %4$sverouderd%5$s. Verder gebruik ervan kan leiden tot %4$scompatibiliteitsproblemen%5$s. Om de update uit te voeren, kopieer je plugin API sleutel van %6$sMijn Account / API sleutels%7$s tab en activeer het in je winkel. Als je abonnement verlopen is en je geen actieve bezit op dit moment, %8$svernieuw het abonnement →%9$s"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateScript.php:68
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateNotice.php:38
+msgid "%1$s%2$s%3$s shipping method duplication error. Please try again later."
+msgstr "%1$s%2$s %3$s fout met dupliceren van de verzendmethode. Probeer het later nog eens."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateNotice.php:36
+msgid "%1$s%2$s%3$s successfully duplicated."
+msgstr "%1$s%2$s %3$s met succes gedupliceerd."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateAction.php:79
+msgid "(Copy)"
+msgstr "(Kopie)"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateAction.php:56
+msgid "Shipping method duplication error. Please try again later."
+msgstr "Fout in dupliceren van verzendmethode. Probeer het later nog eens."
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:198
+msgid "Sending your products with UPS? Create the shipments and generate shipping labels directly from your shop using our %1$sUPS Labels →%2$s"
+msgstr "Je producten verzenden met UPS? Maak de zendingen en genereer verzendlabels rechtstreeks vanuit je winkel met behulp van onze %1$sUPS Labels →%2$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/OptOut.php:41
+msgid "You successfully opted out of collecting usage data by %1$s. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Je hebt je vóór %1$s met succes afgemeld voor het verzamelen van gebruiksgegevens. Als je van gedachten verandert, kun je je later altijd aanmelden via de snelle links van de plugin."
+
+#: classes/class-flexible-shipping-plugin.php:340
+msgid "Please tell us what exactly can we do to improve our plugin?"
+msgstr "Vertel ons wat we precies kunnen doen om onze plugin te verbeteren?"
+
+#: classes/class-flexible-shipping-plugin.php:339
+msgid "Too soon to say"
+msgstr "Te vroeg om te zeggen"
+
+#: classes/class-flexible-shipping-plugin.php:338
+msgid "Less complicated settings"
+msgstr "Minder ingewikkelde instellingen"
+
+#: classes/class-flexible-shipping-plugin.php:337
+msgid "More user-friendly interface"
+msgstr "Gebruiksvriendelijkere interface"
+
+#: classes/class-flexible-shipping-plugin.php:336
+msgid "Easier contact with support"
+msgstr "Eenvoudiger contact met ondersteuning"
+
+#: classes/class-flexible-shipping-plugin.php:335
+msgid "More detailed documentation"
+msgstr "Meer gedetailleerde documentatie"
+
+#: classes/class-flexible-shipping-plugin.php:334
+msgid "What exactly should the conditions you need be based on?"
+msgstr "Wat zijn precies de condities waar je op gebaseerd bent?"
+
+#: classes/class-flexible-shipping-plugin.php:334
+msgid "More calculation conditions"
+msgstr "Meer berekening condities"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:72
+msgid "Choose whether the shipping cost defined in the rules table should be inclusive or exclusive of tax."
+msgstr "Kies of de verzendkosten (die in de tabel met regels zijn gedefinieerd) inclusief of exclusief btw zijn."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:70
+msgid "No, I will enter the shipping cost exclusive of tax"
+msgstr "Nee, ik voer de verzendkosten exclusief btw in"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:69
+msgid "Yes, I will enter the shipping cost inclusive of tax"
+msgstr "Ja, ik voer de verzendkosten inclusief btw in"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:65
+msgid "Tax included in shipping cost"
+msgstr "De verzendkosten zijn inclusief de BTW"
+
+#. Translators: new line and link.
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:48
+msgid "Adjust shipping taxes for this shipping method. Determine its tax status and whether you want to enter shipping costs with or without taxes.%1$sNeed more information? Read our %2$scomprehensive guide about WooCommerce shipping taxes →%3$s"
+msgstr "Pas verzendkosten voor deze verzendmethode aan. Bepaal de belastingstatus en of je verzendkosten met of zonder belastingen wilt invoeren.%1$sMeer informatie nodig? Lees onze %2$suitgebreide informatie over WooCommerce verzendkosten →%3$s"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:44
+msgid "Tax"
+msgstr "BTW"
+
+#. Translators: open tag, close tag.
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:66
+msgid "Want to find out how the table rate works? Hop on board and %1$slet us guide you through the whole setup &rarr;%2$s"
+msgstr "Wil je weten hoe het tabeltarief werkt? Spring aan boord en %1$slaat je door de hele opstelling leiden &rarr;%2$s"
+
+#. Translators: open tag, close tag.
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:52
+msgid "Need more? Check %1$sFlexible Shipping PRO%2$s to unleash its full potential and add advanced rules based on shipping classes, products, quantity, include additional handling fees, insurance and much more."
+msgstr "Heb je meer nodig? Kijk op %1$sFlexible Shipping PRO%2$s om het volledige potentieel ervan te ontketenen en geavanceerde regels toe te voegen op basis van verzendklassen, producten, hoeveelheid, extra afhandelingskosten, verzekering en nog veel meer."
+
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:40
+msgid "Check the FS hints"
+msgstr "Bekijk de FS hints"
+
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:40
+msgid "Close the FS hints"
+msgstr "Sluit de FS hints"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:84
+msgid "Enter the text for the additional shipping method's label which will be displayed once the free shipping is triggered or calculated."
+msgstr "Voer de tekst in voor het etiket van de extra verzendmethode, welke getoond wordt zodra de gratis verzending in werking treedt of berekend wordt."
+
+#: classes/class-flexible-shipping-plugin.php:325
+msgid "Really poor"
+msgstr "Echt slecht"
+
+#: classes/class-flexible-shipping-plugin.php:324
+msgid "Wow, it's awesome!"
+msgstr "Wauw, het is geweldig!"
+
+#: classes/class-flexible-shipping-plugin.php:323
+msgid "Hey, we are curious how would you grade your first impression on Flexible Shipping so far?"
+msgstr "We zijn benieuwd hoe je je eerste indruk over Flexible Shipping tot nu toe zou beoordelen?"
+
+#: classes/class-flexible-shipping-plugin.php:328
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:125
+msgid "By using the 'Send feedback' button I hereby agree and consent to the terms of %1$sPrivacy Policy%2$s."
+msgstr "Door gebruik te maken van de knop 'Feedback verzenden' ga ik hiermee akkoord en stem in met de voorwaarden van %1$sPrivacybeleid%2$s."
+
+#: vendor_prefixed/wpdesk/wp-forms/templates/input-image.php:86
+msgid "Use this media"
+msgstr "Gebruik dit medium"
+
+#: vendor_prefixed/wpdesk/wp-forms/templates/input-image.php:82
+msgid "Select or Upload Media"
+msgstr "Media selecteren of uploaden"
+
+#: vendor_prefixed/wpdesk/wp-forms/templates/input-image.php:57
+msgid "Remove image"
+msgstr "Afbeelding verwijderen"
+
+#: vendor_prefixed/wpdesk/wp-forms/templates/input-image.php:46
+msgid "Set image"
+msgstr "Afbeelding instellen"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:128
+msgid "Thank you!"
+msgstr "Bedankt!"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:127
+msgid "Sending feedback"
+msgstr "Feedback verzenden"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:126
+msgid "Send feedback"
+msgstr "Feedback verzenden"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:124
+msgid "What could we do to improve it?"
+msgstr "Wat kunnen we doen om het te verbeteren?"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:123
+msgid "How likely are you to recommend our plugin to your friends?"
+msgstr "Hoe waarschijnlijk is het dat je onze plugin aan je vrienden aanbeveelt?"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:122
+msgid "Extremely likely"
+msgstr "Zeer waarschijnlijk"
+
+#: vendor_prefixed/wpdesk/wp-nps/src/Nps.php:121
+msgid "Not likely at all"
+msgstr "Helemaal niet waarschijnlijk"
+
+#: src/WPDesk/FS/Tracker/TrackerNotices.php:55
+msgid "Learn more »"
+msgstr "Ontdek meer »"
+
+#. Translators: strong tag.
+#: src/WPDesk/FS/Tracker/TrackerNotices.php:49
+msgid "We are constantly doing our best to %1$simprove our plugins%2$s. That’s why we kindly ask for %1$syour help%2$s to make them even more useful not only for you but also for other %1$s100.000+ users%2$s. Collecting the data on how you use our plugins will allow us to set the right direction for the further development. You can stay asured that no sensitive data will be collected. Can we count on you?"
+msgstr "We doen voortdurend ons best om %1$sonze plugins te verbeteren%2$s. Daarom vragen we vriendelijk om %1$sje hulp%2$s om ze nog nuttiger te maken, niet alleen voor jou maar ook voor andere %1$s100.000+ gebruikers%2$s. Het verzamelen van de gegevens over hoe je onze plugins gebruikt, stelt ons in staat om de juiste richting in te stellen voor de verdere ontwikkeling. Je kunt er rekening mee houden dat er geen gevoelige gegevens worden verzameld. Kunnen we op jou rekenen?"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:71
+msgid "additional cost is"
+msgstr "extra kosten zijn"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:36
+msgid "Cart"
+msgstr "Winkelwagen"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:35
+msgid "Shipping cost based on the cart total or package value"
+msgstr "Verzendkosten gebaseerd op het winkelwagentotaal of verpakkingswaarde"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:36
+msgid "Weight & Dimensions"
+msgstr "Gewicht & dimensies"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:35
+msgid "Shipping cost based on the weight of the cart or package"
+msgstr "Verzendkosten gebaseerd op het geeicht van de winkelwagen of verpakking"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:80
+msgctxt "Default Condition Group"
+msgid "General"
+msgstr "Algemeen"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:29
+msgid "Fixed shipping cost"
+msgstr "Vaste verzendkosten"
+
+#. Translators: URL.
+#: src/WPDesk/FS/TableRate/ShippingMethod/Convert/ConvertNotice.php:94
+msgid "Flexible Shipping group methods are no longer supported. Despite the fact that they still remain editable, no other new features are going to be added to them. It is highly recommended to convert them to the supported single ones. %1$sStart converting%2$s or %3$slearn more about it &rarr;%4$s.%5$sPlease mind that if you use any custom functions or plugins targeting the specific shipping methods based on their IDs, e.g. %6$sFlexible Checkout Fields PRO%7$s, %8$sActive Payments%9$s, %10$sShopMagic%11$s or similar, you may need to reconfigure them after the conversion to remain their proper functioning."
+msgstr "Flexible Shipping groepmethoden worden niet langer ondersteund. Ondanks het feit dat ze nog steeds te bewerken zijn, zal er geen nieuwe functionaliteiten aan worden toegevoegd. Het wordt dan ook sterk aanbevolen om ze te converteren naar de ondersteunde enkele Flexible Shipping methoden. %1$sStart met het converteren van%2$s of %3$sleer er meer over &rarr;%4$s.%5$sHoud er rekening mee dat als je aangepaste functies of plugins gebruikt die gericht zijn op de specifieke verzendmethoden op basis van hun ID's, bijv. %6$sFlexibele afrekenvelden PRO%7$s,%8$sActieve betalingen%9$s, %10$sShopMagic%11$s of iets dergelijks, het kan zijn dat je ze na de conversie opnieuw moet configureren om hun goede werking te behouden."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/CartCalculationOptions.php:23
+msgid "Package value"
+msgstr "Pakketwaarde"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/CartCalculationOptions.php:23
+msgid "Cart value"
+msgstr "Waarde winkelwagen"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:113
+msgid "Choose Package value to exclude virtual products from rules calculation."
+msgstr "Kies Pakketwaarde om virtuele producten uit te sluiten van de berekening."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:109
+msgid "Cart Calculation"
+msgstr "Berekening winkelwagen"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:98
+msgid "Please mind that if you use any additional plugins to split the shipment into packages, the 'Left to free shipping notice' will not be displayed."
+msgstr "Houd er rekening mee dat als je extra plugins gebruikt om de verzending in pakketten op te splitsen, de melding 'restant voor gratis verzending' niet wordt weergegeven."
+
+#. Translators: zone messages.
+#: src/WPDesk/FS/TableRate/Debug/MultipleShippingZonesMatchedSameTerritoryNotice.php:117
+msgid "%1$sWider %2$s shipping zone covers the range of the narrower one placed below: %3$s.%4$s"
+msgstr "%1$sGrotere %2$s verzendzone dekt het bereik van de kleinere zone die hieronder is geplaatst: %3$s.%4$s"
+
+#. Translators: zones.
+#: src/WPDesk/FS/TableRate/Debug/MultipleShippingZonesMatchedSameTerritoryNotice.php:59
+msgid "%1$sFlexible Shipping hints%2$sA potential shipping zone configuration conflict has been detected: %3$s In order to fix it, change the shipping zones order starting from the narrowest at the very top of the list to the widest at the bottom and refresh the page."
+msgstr "%1$sFlexible Shipping%2$s Er is een mogelijk conflict met de configuratie van de verzendzone gedetecteerd:%3$s Om het probleem op te lossen, wijzig je de volgorde van de verzendzones, beginnend met de kleinste helemaal bovenaan de lijst. De grootste onderaan de lijst en vernieuw de pagina."
+
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:33
+msgid "Shipping configuration"
+msgstr "Verzendconfiguratie"
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:49
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:49
+msgid "Combine shipping classes in Flexible Shipping"
+msgstr "Combineer verzendklassen in Flexible Shipping"
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:45
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:45
+msgid "Advanced options and customization"
+msgstr "Geavanceerde opties en aanpassingen"
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:41
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:41
+msgid "Disable or hide the shipping method"
+msgstr "Schakel de verzendmethode uit of verberg ze"
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:21
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:21
+msgid "Learn more about Flexible Shipping &rarr;"
+msgstr "Meer informatie over Flexible Shipping &rarr;"
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:20
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:20
+msgid "Flexible Shipping walkthrough"
+msgstr "Flexible Shipping doorlopen"
+
+#: src/WPDesk/FS/Info/WooCommerceABC.php:49
+msgid "Table Rate Shipping"
+msgstr "Staffel tarief verzending"
+
+#: src/WPDesk/FS/Info/WooCommerceABC.php:45
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:41
+msgid "Shipping Classes"
+msgstr "Verzendklassen"
+
+#: src/WPDesk/FS/Info/WooCommerceABC.php:37
+msgid "Shipping Tax"
+msgstr "Btw verzending"
+
+#: src/WPDesk/FS/Info/WooCommerceABC.php:21
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:21
+msgid "Want to know more about WooCommerce? &rarr;"
+msgstr "Meer weten over WooCommerce? &rarr;"
+
+#: src/WPDesk/FS/Info/WooCommerceABC.php:20
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:20
+msgid "WooCommerce ABCs"
+msgstr "WooCommerce ABCs"
+
+#: classes/table-rate/views/ads/html-ads-fsie.php:32
+#: src/WPDesk/FS/Info/FSIE.php:40
+msgid "Buy Flexible Shipping Import/Export &rarr;"
+msgstr "Koop Flexible Shipping Import/Export &rarr;"
+
+#: classes/table-rate/views/ads/html-ads-fsie.php:27
+#: src/WPDesk/FS/Info/views/fsie.php:17
+msgid "Upload the edited CSV, update the outdated shipping pricing and organize your shipping methods during the import"
+msgstr "Upload de bewerkte CSV, werk de verouderde verzendkosten bij en organiseer je verzendmethoden tijdens het importeren "
+
+#: classes/table-rate/views/ads/html-ads-fsie.php:24
+#: src/WPDesk/FS/Info/views/fsie.php:13
+msgid "Backup or transfer easily your shipping methods between the shipping zones or WooCommerce stores"
+msgstr "Maak een back-up of draag eenvoudig je verzendmethoden over tussen de verzendzones of de verschillende WooCommerce winkels "
+
+#: classes/table-rate/views/ads/html-ads-fsie.php:21
+#: src/WPDesk/FS/Info/views/fsie.php:9
+msgid "Edit the shipping cost for multiple methods simultaneously directly in the CSV file"
+msgstr "Bewerk de verzendkosten voor meerdere methoden tegelijk in het CSV bestand"
+
+#: classes/table-rate/views/ads/html-ads-fsie.php:15
+#: src/WPDesk/FS/Info/FSIE.php:18
+msgid "Import and Export your shipping methods with Flexible Shipping Import/Export plugin"
+msgstr "Importeer en exporteer je verzendmethoden met de Flexible Shipping Import/Export plugin"
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:36
+#: src/WPDesk/FS/Info/FSPro.php:40
+msgid "Upgrade now to PRO version &rarr;"
+msgstr "Upgrade nu naar de PRO-versie &rarr; "
+
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:106
+msgid "This is where the rules table should be displayed. If it's not, it is usually caused by the conflict with the other plugins you are currently using, JavaScript error or the caching issue. Clear your browser's cache or deactivate the plugins which may be interfering."
+msgstr "Dit is waar de tabel met regels moet worden weergegeven. Als dit niet het geval is, wordt dit meestal veroorzaakt door een conflict met: een andere plugins die je momenteel gebruikt, een JavaScript fout of het cacheprobleem. Maak het cachegeheugen leeg van de browser of deactiveer de plugin die mogelijk het probleem veroorzaakt."
+
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:97
+msgid "Missing rules table - settings cannot be saved!"
+msgstr "Regel tabel ontbreekt - instellingen kunnen niet worden opgeslagen!"
+
+#. Translators: docs link.
+#: src/WPDesk/FS/TableRate/ShippingMethodSingle.php:68
+msgid "A single Flexible Shipping method. Learn %1$show to configure FS shipping method &rarr;%2$s"
+msgstr "Een enkele Flexible Shippin methode. Leer %1$s hoe de FS-verzendmethode &rarr;%2$s te configureren "
+
+#: src/WPDesk/FS/TableRate/ShippingMethodSingle.php:64
+msgid "A single Flexible Shipping method."
+msgstr "Een enkele flexibele verzendmethode. "
+
+#: src/WPDesk/FS/TableRate/Order/ItemMeta.php:63
+msgid "Description"
+msgstr "Beschrijving"
+
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:57
+msgid "Shipping cost decreases in line with the cart total. Free shipping once $300 threshold is reached."
+msgstr "De verzendkosten nemen af in lijn met het totaal van de winkelwagen. Gratis verzending zodra de drempel van $300 is bereikt. "
+
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:56
+msgid "Price-based shipping"
+msgstr "Op winkelwaarde gebaseerde verzending "
+
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:38
+msgid "Shipping cost increases in line with the cart total weight."
+msgstr "De verzendkosten stijgen in lijn met het totale gewicht van de winkelmandje. "
+
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:37
+msgid "Weight-based shipping"
+msgstr "Verzending op basis van gewicht "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/Convert/ConvertNotice.php:170
+msgid "Flexible Shipping group method has been converted to its new single version and deactivated for safety reasons. Once you make sure everything was converted properly, you can safely delete the previous group method."
+msgstr "De Flexible Shipping groepsmethode is omgezet naar de nieuwe enkele versie en is om veiligheidsredenen gedeactiveerd. Zodra je zeker weet dat alles correct is geconverteerd, kun je de vorige groepsmethode veilig verwijderen."
+
+#. Translators: URL.
+#: src/WPDesk/FS/TableRate/ShippingMethod/Convert/ConvertNotice.php:114
+msgid "Flexible Shipping group method is no longer supported. %1$sLearn more about it &rarr;%2$s."
+msgstr "Flexible Shipping groepmethode wordt niet langer ondersteund. %1$s Lees er meer over &rarr;%2$s. "
+
+#. Translators: URL.
+#: src/WPDesk/FS/TableRate/ShippingMethod/Convert/ConvertNotice.php:70
+msgid "Flexible Shipping group method you are currently viewing has been converted to its new single version and deactivated for safety reasons. Once you make sure everything was converted properly, you can safely delete this group method. If you notice any discrepancies please %1$srun the conversion process once again%2$s.%3$sIf you use any custom functions or plugins targeting the specific shipping methods based on their IDs, e.g. %4$sFlexible Checkout Fields PRO%5$s, %6$sActive Payments%7$s, %8$sShopMagic%9$s or similar, please re-check their configuration in order to maintain their proper functioning after the conversion."
+msgstr "Flexible Shipping groep methode die je momenteel bekijkt is geconverteerd naar de nieuwe enkele versie en gedeactiveerd om veiligheidsredenen. Zodra je ervoor zorgt dat alles goed is geconverteerd, kun je deze groepsmethode veilig verwijderen. Als je discrepanties opmerkt, voer dan %1$shet conversieproces nogmaals uit%2$s.%3$sAls je aangepaste functies of plugins gebruikt die gericht zijn op de specifieke verzendmethoden op basis van hun ID's, bijvoorbeeld %4$sFlexibele afreken velden PRO%5$s, %6$sActive Payments%7$s, %8$sShopMagic%9$s of iets dergelijks, controleer dan opnieuw hun configuratie om hun goede werking te behouden."
+
+#. Translators: documentation link.
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:95
+msgid "Learn %1$show to customize the displayed notice &rarr;%2$s"
+msgstr "Leer %1$s hoe om de weer gegeven melding &rarr; %2$s aan te passen "
+
+#. Translators: method title.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:282
+msgid "Shipping method title: %1$s"
+msgstr "Titel van de verzendmethode: %1$s"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:185
+msgid "Method available only for logged in users, but user is not logged in."
+msgstr "De methode is alleen beschikbaar voor ingelogde gebruikers, de gebruiker is niet aangemeld."
+
+#: classes/table-rate/shipping-method.php:74
+msgid "A group of Flexible Shipping methods - useful to organize numerous shipping methods."
+msgstr "Een groep van Flexible Shipping methoden - handig om verschillende verzendmethoden te organiseren."
+
+#: classes/table-rate/shipping-method.php:73
+msgid "Flexible Shipping Group"
+msgstr "Flexible Shipping verzendgroep"
+
+#: classes/table-rate/settings/flexible-shipping.php:38
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:62
+msgid "If you select to apply the tax, the plugin will use the tax rates defined in the WooCommerce settings at <strong>WooCommerce → Settings → Tax</strong>."
+msgstr "Als je ervoor kiest om de belasting toe te passen, gebruikt de plugin de belastingtarieven die zijn gedefinieerd in de WooCommerce-instellingen op <strong>WooCommerce → Instellingen → Belasting</strong>."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Label/SingleLabelFileDispatcher.php:86
+msgid "Integration doesn't exists."
+msgstr "Integratie bestaat niet. "
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:277
+msgid "The &#8220;%1$s&#8221; plugin requires at least %2$s version of %3$s to work correctly. Please update it to its latest release."
+msgstr "De plugin &#8220;%1$s&#8221; vereist ten minste %2$s versie van %3$s om correct te werken. Update het naar de nieuwste release."
+
+#: classes/class-flexible-shipping-plugin.php:832
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Assets.php:67
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Translators: input data.
+#: src/WPDesk/FS/TableRate/Rule/Cost/AbstractAdditionalCost.php:111
+msgid "input data: %1$s"
+msgstr "invoergegevens: %1$s "
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:37
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:37
+msgid "A complete guide to shipping methods"
+msgstr "Een complete gids voor verzendmethoden "
+
+#: src/WPDesk/FS/Info/FSWalkthrough.php:33
+#: src/WPDesk/FS/Info/FSWalkthroughPL.php:33
+msgid "How to add a new shipping method handled by Flexible Shipping?"
+msgstr "Hoe voeg ik een nieuwe verzendmethode toe die wordt verwerkt door Flexible Shipping? "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:46
+msgid "If the WordPress updater hasn't informed you about the newer versions available, please %sfollow these instructions &rarr;%s"
+msgstr "Als de WordPress updater je niet heeft geïnformeerd over de nieuwere versies die beschikbaar zijn,%svolg dan deze instructies &rarr;%s"
+
+#: src/WPDesk/FS/Onboarding/TableRate/Onboarding.php:115
+msgid "Step #"
+msgstr "Stap #"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:244
+msgid "Proceed to adding the rules"
+msgstr "Ga verder met het toevoegen van de regels "
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:222
+msgid "Configure even the most advanced shipping scenarios by adding and combining the shipping cost calculation rules. Precisely define how the shipping cost should be calculated or import and adapt one of our %1$sready-to-use scenarios%2$s to your needs. Read the %3$sFlexible Shipping plugin documentation%4$s and discover its endless possibilities!"
+msgstr "Configureer zelfs de meest geavanceerde verzendscenario's door de regels voor het berekenen van verzendkosten toe te voegen en te combineren. Definieer nauwkeurig hoe de verzendkosten moeten worden berekend of geïmporteerd en pas een van onze %1$sready-to-use scenario's%2$s aan je behoeften aan. Lees de %3$sFlexible Shipping plugin documentatie%4$s en ontdek de eindeloze mogelijkheden!"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:218
+msgid "Add more and combine the rules!"
+msgstr "Voeg meer toe en combineer de regels! "
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:185
+msgid "%1$sExample 1:%2$s If the cost of the shipping method you are currently configuring should be $12, enter %3$sCost is:%4$s 12."
+msgstr "%1$sExample 1:%2$s Als de kosten van de verzendmethode die je momenteel configureert $ 12 moeten zijn, voer je %3$sCost is:%4$s 12 in."
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:182
+msgid "Enter the shipping cost, which will be added to the order’s price when the condition you’ve set in the previous step is met."
+msgstr "Voer de verzendkosten in. Deze wordt bij de prijs van de bestelling opgeteld wanneer aan de voorwaarden van de vorige stap zijn voldaan."
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:180
+msgid "Determine the shipping cost"
+msgstr "Bepaal de verzendkosten "
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:145
+msgid "%1$sExample 2:%2$s If you want a particular shipping cost to be charged only when the order’s price exceeds $100, select %3$sWhen:%4$s Price %5$sis from:%6$s $100."
+msgstr "%1$sExample 2:%2$s Als je wilt dat bepaalde verzendkosten alleen in rekening worden gebracht wanneer de prijs van de bestelling hoger is dan $100, selecteer je %3$sWanneer:%4$s Prijs %5$sis van:%6$s $100."
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:133
+msgid "%1$sExample 1:%2$s If you want a particular shipping cost to be charged when the order’s total weight is between 1 kg and 5 kg - select %3$sWhen:%4$s Weight %5$sis from:%6$s 1 kg %7$sto:%8$s 5 kg."
+msgstr "%1$sExample 1:%2$s Als je wilt dat een bepaalde verzendkosten in rekening worden gebracht wanneer het totale gewicht van de bestelling tussen 1 kg en 5 kg ligt - selecteer %3$sWanneer:%4$s Gewicht %5$sis van:%6$s 1 kg %7$sto:%8$s 5 kg."
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:130
+msgid "Enter the minimum and maximum value for the selected condition to define the range when the rule will be applied."
+msgstr "Voer de minimum- en maximumwaarde in voor de geselecteerde voorwaarde om het bereik te definiëren wanneer de regel wordt toegepast."
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:128
+msgid "Define the rule’s range"
+msgstr "Definieer het bereik van de regel "
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:109
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:161
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:199
+msgid "Next step"
+msgstr "Volgende stap"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:104
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:156
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:194
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:239
+msgid "Previous step"
+msgstr "Vorige stap"
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:95
+msgid "%1$sExample 2:%2$s If the shipping cost should be fixed for good — select %3$sAlways%4$s."
+msgstr "%1$sExample 2:%2$s Als de verzendkosten voorgoed moeten worden vastgesteld, selecteer je %3$sAlways%4$s."
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:85
+msgid "%1$sExample 1:%2$s If the shipping cost should be calculated based on the weight of the products added to the cart — select %3$sWeight%4$s, if&nbsp;based on price — similarly select %5$sPrice%6$s."
+msgstr "%1$s Voorbeeld 1: %2$s Als de verzendkosten moeten worden berekend op basis van het gewicht van de producten die aan de winkelwagen zijn toegevoegd - selecteer %3$s Gewicht %4$s, als &nbsp; op basis van prijs - selecteer op dezelfde manier %5$s Prijs %6$s. "
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:79
+msgid "%1$sIn the 'When' column select the condition which the rule you are about to add will be based on and calculated.%2$s"
+msgstr "%1$sIn de kolom 'Wanneer' selecteer je de voorwaarde waarop de regel die je gaat toevoegen, wordt gebaseerd op en berekend.%2$s"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:75
+msgid "Choose what the rule should be based on"
+msgstr "Kies waarop de regel moet zijn gebaseerd "
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:56
+msgid "Start the tutorial"
+msgstr "Begin met een tutorial"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:51
+msgid "No, thank you."
+msgstr "Nee, bedankt"
+
+#. Translators: open and close strong tag.
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:44
+msgid "%1$sWe do our best to develop our plugins in response to your expectations. Not only do we want them to fit your needs but also offer a vast array of features and be easy to use at the same time. Explore the possibilities and learn how to use the rules table in just 4 steps!%2$s"
+msgstr "%1$sWe doen ons best om onze plugins te ontwikkelen in reactie op je verwachtingen. We willen niet alleen dat ze aan je behoeften voldoen, maar bieden ook een breed scala aan functies en zijn tegelijkertijd gemakkelijk te gebruiken. Ontdek de mogelijkheden en leer hoe je de regelstabel in slechts 4 stappen kunt gebruiken!%2$s"
+
+#: src/WPDesk/FS/Onboarding/TableRate/PopupData.php:40
+msgid "Find out how the rules table works"
+msgstr "Lees hoe de tabel met regels werkt "
+
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/JSON.php:76
+msgid "(no title)"
+msgstr "(Geen titel)"
+
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/JSON.php:39
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/JSON.php:44
+msgid "Sorry, there has been an error. The JSON file is invalid or incorrect file type."
+msgstr "Er is een fout opgetreden. Het JSON-bestand is ongeldig of heeft een onjuist bestandstype."
+
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/JSON.php:33
+msgid "Uploaded file not exist."
+msgstr "Geüpload bestand niet gevonden:"
+
+#. Translators: open tag, close tag.
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:81
+msgid "%1$sExample%2$s: If your rules are based on %1$sprice%2$s and the first range covers $0-$100, the next one should start from %1$s$100.01%2$s, not from %1$s$101%2$s, etc."
+msgstr "%1$sExample%2$s: Als je regels zijn gebaseerd op %1$sprice%2$s en het eerste bereik $0-$100 dekt, moet het volgende beginnen vanaf %1$s$100.01%2$s, niet vanaf %1$s$101%2$s, enz."
+
+#: src/WPDesk/FS/TableRate/views/shipping-method-settings-rules.php:75
+msgid "Please mind that the ranges you define must not overlap each other and make sure there are no gaps between them."
+msgstr "Houd er rekening mee dat de bereiken die je definieert elkaar niet mogen overlappen en ervoor moeten zorgen dat er geen hiaten tussen hen zijn."
+
+#: src/WPDesk/FS/TableRate/Rule/SpecialAction/SpecialActionFieldsFactory.php:65
+msgid "special action"
+msgstr "speciale actie"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:79
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:80
+msgid "per"
+msgstr "per"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:78
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:87
+msgid "additional cost per"
+msgstr "extra kosten per"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:69
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleAdditionalCostFieldsFactory.php:70
+msgid "additional cost"
+msgstr "extra kosten"
+
+#. Translators: calculated.
+#: src/WPDesk/FS/TableRate/Rule/Cost/AbstractAdditionalCost.php:113
+msgid "calculated: %1$s"
+msgstr "berekend: %1$s"
+
+#. Translators: based on.
+#: src/WPDesk/FS/TableRate/Rule/Cost/AbstractAdditionalCost.php:109
+msgid "based on: %1$s"
+msgstr "gebaseerd op: %1$s"
+
+#. Translators: cost per.
+#: src/WPDesk/FS/TableRate/Rule/Cost/AbstractAdditionalCost.php:107
+msgid "%1$s per %2$s"
+msgstr "%1$s per %2$s"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/AbstractAdditionalCost.php:105
+msgid "additional cost:"
+msgstr "bijkomende kosten:"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleCostFieldsFactory.php:51
+msgid "rule cost is"
+msgstr "regel kosten zijn"
+
+#. Translators: rule number.
+#: src/WPDesk/FS/TableRate/Rule/Rule.php:210
+msgid "Rule %1$s:"
+msgstr "Regel %1$s:"
+
+#. Translators: matched condition.
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:151
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:64
+msgid " matched: %1$s"
+msgstr " komt overeen met: %1$s"
+
+#. Translators: input data.
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:149
+msgid " input data: %1$s;"
+msgstr " invoergegevens: %1$s;"
+
+#. Translators: condition name.
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:132
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:62
+msgid "Condition: %1$s;"
+msgstr "Conditie: %1$s;"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:100
+msgid "max"
+msgstr "max"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:99
+msgid "price to"
+msgstr "prijs tot"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:92
+msgid "min"
+msgstr "min"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:91
+msgid "price is from"
+msgstr "prijs is vanaf"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:101
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:89
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:90
+msgid "to"
+msgstr "tot"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:88
+msgid "weight to"
+msgstr "gewicht tot"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:80
+msgid "weight is from"
+msgstr "gewicht is vanaf"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/PluginCompatibilityChecker.php:100
+msgid "Flexible Shipping Locations"
+msgstr "Flexible Shipping locaties"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/PluginCompatibilityChecker.php:97
+msgid "Flexible Shipping PRO"
+msgstr "Flexible Shipping PRO"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:60
+msgid "%sFlexible Shipping Locations%s plugin you are currently using is not compatible with the installed version of Flexible Shipping free. Please update the %sFlexible Shipping Locations%s plugin to %s version or newer."
+msgstr "%sFlexible Shipping Locations%s plugin die je momenteel gebruikt is niet compatibel met de geïnstalleerde versie van Flexible Shipping gratis. werk de %sFlexible Shipping Locations%s plugin bij naar %s versie of nieuwer."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:57
+msgid "%sFlexible Shipping PRO%s plugin you are currently using is not compatible with the installed version of Flexible Shipping free. Please update the %sFlexible Shipping PRO%s plugin to %s version or newer."
+msgstr "%sFlexible Shipping PRO%s plugin die je momenteel gebruikt, is niet compatibel met de geïnstalleerde versie van gratis versie van Flexible Shipping. Update de %sFlexible Shipping PRO%s plugin naar %s versie of nieuwer. "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:53
+msgid "%sFlexible Shipping%s plugin you are currently using is not compatible with the installed version of Flexible Shipping Locations. Please update the %sFlexible Shipping%s plugin to %s version or newer."
+msgstr "%sFlexible Shipping%s plugin die je momenteel gebruikt, is niet compatibel met de geïnstalleerde versie van Flexible Shipping Locations. Update de %sFlexible Shipping%s plugin naar versie %s (of nieuwer)."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:51
+msgid "%sFlexible Shipping%s plugin you are currently using is not compatible with the installed version of Flexible Shipping PRO. Please update the %sFlexible Shipping%s plugin to %s version or newer."
+msgstr "%sFlexible Shipping%s plugin die je momenteel gebruikt is niet compatibel met de geïnstalleerde versie van Flexible Shipping PRO. update de %sFlexible Shipping%s plugin naar %s versie of nieuwer."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/Notice.php:49
+msgid "%sFlexible Shipping%s plugin you are currently using is not compatible with the installed version of Flexible Shipping PRO and Flexible Shipping Locations. Please update the %sFlexible Shipping%s plugin to %s version or newer."
+msgstr "%sFlexible Shipping%s plugin die je momenteel gebruikt is niet compatibel met de geïnstalleerde versie van Flexible Shipping PRO en Flexible Shipping Locations. update de %sFlexible Shipping%s plugin naar %s versie of nieuwer."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/BlockSettings.php:107
+msgid "Go to the plugins list &rarr;"
+msgstr "Ga naar de plugins pagina &rarr; "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/BlockSettings.php:100
+msgid "In order to prevent any further issues with the plugin configuration or its proper functioning, before saving the changes please update the following: %s."
+msgstr "Om verdere problemen met de configuratie van de plugin of de goede werking ervan te voorkomen, moet je, voordat je de wijzigingen opslaat, het volgende updaten: %s."
+
+#: vendor_prefixed/wpdesk/wp-forms/templates/product-select.php:22
+msgid "Search for a product&hellip;"
+msgstr "Zoek naar een product&hellip;"
+
+#. Translators: contents weight.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:217
+msgid "Contents weight: %1$s"
+msgstr "Gewicht inhoud: %1$s "
+
+#. Translators: contents value.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:215
+msgid "Contents value: %1$s"
+msgstr "Inhoudswaarde: %1$s "
+
+#: classes/views/deactivation_thickbox.php:63
+msgid "Please let us know how we can improve it"
+msgstr "Laat ons weten wat we nog kunnen verbeteren "
+
+#: classes/views/deactivation_thickbox.php:60
+msgid "I don't like the new version of the rules table"
+msgstr "Ik hou niet van de nieuwe versie van de regel-tabel "
+
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:394
+msgid "Check our further shipping integration with FedEx / UPS / USPS live rates plugins."
+msgstr "Bekijk onze verdere verzendintegratie met FedEx/UPS/USPS live tarieven plugins."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:151
+msgid "Shipping Cost Calculation Rules"
+msgstr "Regels voor het berekenen van verzendkosten "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:211
+msgid "Advanced Options"
+msgstr "Geavanceerde opties"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:204
+msgid "Cost Calculation"
+msgstr "Kosten berekening "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:171
+msgid "Shipping Integration"
+msgstr "Verzendintegratie "
+
+#. Translators: shipping zone name and shipping method settings url.
+#: src/WPDesk/FS/TableRate/Debug/NoShippingMethodsNotice.php:72
+msgid "No shipping method handled by Flexible Shipping found in the %1$s shipping zone. %2$sAdd shipping method →%3$s"
+msgstr "Geen verzendmethode die wordt afgehandeld door Flexible Shipping gevonden voor de verzendzone van %1$s. %2$s Verzendmethode toevoegen →%3$s "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:92
+msgid "the result of shipping method's usage"
+msgstr "het resultaat van het gebruik van de verzendmethode "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:85
+msgid "not triggered"
+msgstr "niet geactiveerd "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:85
+msgid "triggered"
+msgstr "getriggerd"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:85
+msgid "rules (%1$s)"
+msgstr "regels (%1$s) "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:78
+msgid "input data"
+msgstr "invoer gegevens"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/ShippingMethodLogger.php:71
+msgid "shipping method configuration"
+msgstr "Verzendmethode Configuratie"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/view/display-notice-footer.php:9
+msgid "Copy all data"
+msgstr "Alle gegevens kopiëren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/view/display-notice-content-single-value.php:18
+msgid "Copy %1$s"
+msgstr "Kopieer %1$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/view/display-notice-content-single-value.php:15
+msgid "Hide %1$s"
+msgstr "Verberg %1$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/view/display-notice-content-single-value.php:12
+msgid "Show %1$s"
+msgstr "%1$s tonen "
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Logger/view/display-notice-header.php:9
+msgid "FS Debug mode for %1$s%2$s%3$s shipping method."
+msgstr "FS debug modus voor %1$s%2$s%3$s verzendmethode."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/IntegrationSettingsImplementation.php:41
+msgid "Integration: %1$s"
+msgstr "Integratie: %1$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/MethodSettingsImplementation.php:272
+msgid "Method settings:%1$s Enabled: %2$s Method Title: %3$s Method Description: %4$s Tax status: %5$s Costs includes tax: %6$s Free Shipping: %7$s Free Shipping Label: %8$s 'Left to free shipping' notice: %9$s Rules Calculation: %10$s Cart Calculation: %11$s Visibility (Show only for logged in users): %12$s Default: %13$s Debug mode: %14$s"
+msgstr "Methode instellingen:%1$s Ingeschakeld: %2$s Methode titel: %3$s Methode beschrijving: %4$s Belastingstatus: %5$s Kosten inclusief belasting: %6$s Gratis verzending: %7$s Gratis verzending etiket: %8$s 'Links naar gratis verzending' mededeling: %9$s Regels berekening: %10$s Winkelwagen berekening: %11$s Zichtbaarheid (Toon alleen voor ingelogde gebruikers): %12$s Standaard: %13$s Debug modus %14$s"
+
+#: classes/table-rate/flexible-shipping-settings.php:46
+msgid "Flexible Shipping Info"
+msgstr "Flexible Shipping Info"
+
+#. Translators: documentation link.
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:135
+msgid "Enable FS debug mode to verify the shipping methods' configuration, check which one was used and how the shipping cost was calculated as well as identify any possible mistakes. %1$sLearn more how the Debug Mode works →%2$s"
+msgstr "Schakel de FS-Debugmodus in om de configuratie van de verzendmethoden te verifiëren, of om te controleren welke is gebruikt, hoe de verzendkosten zijn berekend en om eventuele fouten te identificeren. %1$s Meer informatie over hoe de Debug-modus werkt →%2$s"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:132
+msgid "Enable FS Debug Mode"
+msgstr "Schakel FS debug modus in "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:129
+msgid "FS Debug Mode"
+msgstr "FS Debug Mode"
+
+#: classes/table-rate/shipping-method.php:562
+#: src/WPDesk/FS/TableRate/ShippingMethodSingle.php:277
+msgid "Shipping cost added."
+msgstr "Verzendkosten toegevoegd."
+
+#. Translators: method id.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:278
+msgid "Shipping method ID: %1$s"
+msgstr "Verzendmethode ID: %1$s"
+
+#. Translators: shipping cost after free shipping.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:274
+msgid "Shipping cost after free shipping applied: %1$s"
+msgstr "Verzendkosten na toepassing van gratis verzending: %1$s "
+
+#. Translators: free shipping.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:269
+msgid "Free shipping: %1$s"
+msgstr "Gratis verzending: %1$s "
+
+#. Translators: cost, currency.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:265
+msgid "Calculated shipping cost: %1$s %2$s"
+msgstr "Berekende verzendkosten: %1$s %2$s "
+
+#. Translators: add method.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:258
+msgid "Used and displayed in the cart/checkout after filters: %1$s"
+msgstr "Gebruikt en weergegeven in de winkelwagen / afrekenen na filters: %1$s "
+
+#. Translators: add method.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:252
+msgid "Used and displayed in the cart/checkout: %1$s"
+msgstr "Gebruikt en weergegeven in de winkelwagen / afrekenen: %1$s "
+
+#. Translators: rule cost.
+#: src/WPDesk/FS/TableRate/Rule/CostsCalculator.php:218
+msgid "Calculated rule cost: %1$s %2$s"
+msgstr "Berekende regelkosten: %1$s %2$s "
+
+#. Translators: matched condition.
+#. Translators: add method.
+#. Translators: free shipping.
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:151
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:64
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:252
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:258
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:269
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/CheckboxValue.php:23
+msgid "no"
+msgstr "nee"
+
+#. Translators: cart currency.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:194
+msgid "Cart currency: %1$s"
+msgstr "Winkelwagen valuta: %1$s"
+
+#. Translators: shop currency.
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:192
+msgid "Shop currency: %1$s"
+msgstr "Winkelvaluta: %1$s "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:92
+msgid "Tick this option to display the notice in the cart and on the checkout page."
+msgstr "Vink deze optie aan om de melding in de winkelwagen en op de afrekenpagina weer te geven. "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:91
+msgid "Display the notice with the amount of price left to free shipping"
+msgstr "Geef het bericht weer met het resterende bedrag voor gratis verzending "
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:88
+msgid "'Left to free shipping' notice"
+msgstr "Bericht 'Restantbedrag voor gratis verzending' "
+
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:386
+msgid "Check our further shipping integration with DPD UK and FedEx / UPS live rates plugins."
+msgstr "Bekijk onze andere verzend plugins met DPD UK en FedEx / UPS live tarieven integratie."
+
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:378
+msgid "Check our further shipping integrations with DPD, DHL, InPost, eNadawca and Orlen Paczka."
+msgstr "Bekijk onze andere verzend plugins integraties met DPD, DHL, InPost, eNadawca and Orlen Paczka."
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:347
+msgid "Sending your products via DPD UK? Create the shipments and generate shipping labels directly from your shop using our %1$sDPD UK integration →%2$s"
+msgstr "Je producten verzenden via DPD UK? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sDPD UK integratie →%2$s "
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:326
+msgid "Sending your products via InPost? Create the shipments and generate shipping labels directly from your shop using our %1$sInPost integration →%2$s"
+msgstr "Verstuur je je producten via InPost? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sInPost integratie →%2$s "
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:305
+msgid "Sending your products via Orlen Paczka? Create the shipments and generate shipping labels directly from your shop using our %1$sOrlen Paczka integration →%2$s"
+msgstr "Je producten verzenden via Orlen Paczka? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sOrlen Paczka integratie →%2$s"
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:284
+msgid "Sending your products via DHL? Create the shipments and generate shipping labels directly from your shop using our %1$sDHL integration →%2$s"
+msgstr "Je producten verzenden via DHL? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sDHL integratie →%2$s "
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:263
+msgid "Sending your products via Poczta Polska? Create the shipments and generate shipping labels directly from your shop using our %1$sPoczta Polska eNadawca integration →%2$s"
+msgstr "Je producten verzenden via Poczta Polska? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sPoczta Polska eNadawca-integratie →%2$s"
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:242
+msgid "Sending your products via DPD? Create the shipments and generate shipping labels directly from your shop using our %1$sDPD integration →%2$s"
+msgstr "Je producten verzenden via DPD? Creëer de zendingen en genereer verzendlabels rechtstreeks vanuit je webshop met behulp van onze %1$sDPD integratie →%2$s"
+
+#. Translators: cart value and shop link.
+#: src/WPDesk/FS/TableRate/FreeShipping/FreeShippingNotice.php:130
+msgid "You only need %1$s more to get free shipping! %2$sContinue shopping%3$s"
+msgstr "Je hoeft nog maar %1$s te besteden in onze webshop om de verzending gratis te krijgen! %2$s Ga verder met winkelen%3$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Label/SingleLabelFileDispatcher.php:92
+msgid "Label error"
+msgstr "Label fout"
+
+#: src/WPDesk/FS/TableRate/Rule/Rule.php:153
+msgid "Rule costs:"
+msgstr "Regel kosten:"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:93
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:81
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:82
+msgid "is from"
+msgstr "is van"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:28
+msgid "Always"
+msgstr "Altijd"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-user-feedback/src/WPDesk/Tracker/UserFeedback/UserFeedbackContent.php:31
+msgid "Proceed"
+msgstr "Doorgaan"
+
+#: vendor_prefixed/wpdesk/wp-helpscout-beacon/src/Beacon/Beacon.php:51
+#: vendor_prefixed/wpdesk/wp-helpscout-beacon/src/Beacon/Beacon.php:92
+msgid "When you click OK we will open our HelpScout beacon where you can find answers to your questions. This beacon will load our help articles and also potentially set cookies."
+msgstr "Wanneer je op OK klikt, openen we ons HelpScout-beacon waar je antwoorden op je vragen kunt vinden. Dit beacon laadt onze help-artikelen en stelt mogelijk ook cookies in."
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:221
+msgid "Want to show your customers the USPS live rates? %1$sCheck our USPS plugin →%2$s"
+msgstr "Wil je je klanten de USPS live tarieven laten zien? %1$sBekijk onze USPS plugin →%2$s"
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:174
+msgid "Want to show your customers the FedEx live rates? %1$sCheck our FedEx plugin →%2$s"
+msgstr "Wil je je klanten de live-tarieven van FedEx laten zien? %1$s. Bekijk onze FedEx plugin →%2$s"
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:150
+msgid "Want to show your customers the DHL Express live rates? %1$sCheck our DHL Express plugin →%2$s"
+msgstr "Wil je je klanten direct de tarieven van DHL Express laten zien? %1$s Bekijk onze DHL Express plugin →%2$s"
+
+#: classes/table-rate/shipping-method.php:356
+msgid "Flexible Shipping: security check error. Shipping method order not saved!"
+msgstr "Flexible Shipping: fout gevonden tijdens de beveiligingscontrole. Verzendmethode voor de bestelling is niet opgeslagen!"
+
+#: classes/table-rate/bulk-actions.php:355
+msgid "Unable to create temporary file for labels. Check temporary folder configuration on server."
+msgstr "Kan geen tijdelijk bestand voor labels maken. Controleer de configuratie voor de tijdelijke map op de server."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/scripts.php:44
+msgid "Plugin deactivation"
+msgstr "Plugin deactiveren"
+
+#: classes/views/deactivation_thickbox.php:109
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:108
+msgid "Please let us know how we can improve our plugin"
+msgstr "Laat ons weten hoe we onze plugin kunnen verbeteren"
+
+#: classes/views/deactivation_thickbox.php:71
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:58
+msgid "I have found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: classes/views/deactivation_thickbox.php:36
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:29
+msgid "If you have a moment, please let us know why you are deactivating the plugin (anonymous feedback):"
+msgstr "Als je even de tijd hebt, laat ons dan weten waarom je de plugin deactiveert (feedback is anoniem): "
+
+#: classes/notices/rate-notice-implementation.php:57
+msgid "Awesome, you've been using Flexible Shipping for more than 2 weeks. Could you please do me a BIG favor and give it a 5-star rating on WordPress? ~Octolize Team"
+msgstr "Geweldig, je maakt al meer dan 2 weken gebruik van Flexible Shipping. Zou je me alsjeblieft een GROOT plezier willen doen en het een 5-sterren beoordeling geven op WordPress? ~ Octolize team"
+
+#: classes/notices/abstract-rate.php:30
+#: classes/notices/rate-notice-implementation.php:20
+msgid "%1$sNope, maybe later%2$s"
+msgstr "%1$sNee, misschien later%2$s"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Info"
+msgstr "Info"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Notice"
+msgstr "Melding"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Critical"
+msgstr "Kritisch"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Alert"
+msgstr "Waarschuwing"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Emergency"
+msgstr "Noodgeval"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#. Translators: directory.
+#: vendor_prefixed/wpdesk/wp-logs/src/WP/WPCapture.php:36
+msgid "Can not enable WP Desk Debug log! Cannot create file %s!"
+msgstr "Kan de WP Desk debug log niet inschakelen! Kan het bestand %s niet aanmaken!"
+
+#. Translators: directory.
+#: vendor_prefixed/wpdesk/wp-logs/src/WP/WPCapture.php:23
+msgid "Can not enable WP Desk Debug log! Cannot create directory %s or this directory is not writeable!"
+msgstr "Kan WP Desk debug log niet inschakelen! Kan folder %s niet aanmaken of deze folder is niet beschrijfbaar!"
+
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Debug"
+msgstr "Debug"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:404
+msgid "The &#8220;%s&#8221; plugin requires activating %s plugin. <a href=\"%s\">Activate %s →</a>"
+msgstr "De \"%s\" plugin vereist het activeren van %s plugin. <a href=\"%s\">Activeer %s →</a>"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:398
+msgid "The &#8220;%s&#8221; plugin requires free %s plugin. <a href=\"%s\">Install %s →</a>"
+msgstr "De \"%s\" plugin vereist gratis %s plugin. <a href=\"%s\">Installeer %s →</a>"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:190
+msgid "The &#8220;%s&#8221; plugin cannot run without OpenSSL module version at least %s. Please update OpenSSL module."
+msgstr "De plugin &#8220;%s&#8221; kan niet worden uitgevoerd zonder de OpenSSL-moduleversie ten minste %s. Update de OpenSSL module."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker_With_Update_Disable.php:29
+msgid "The &#8220;%s&#8221; plugin disables temporarily as required %s plugin is being upgraded."
+msgstr "De plugin &#8220;%s&#8221; wordt tijdelijk uitgeschakeld terwijl de vereiste %s plugin wordt geüpgraded."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:101
+msgid "Rules Calculation"
+msgstr "Regels berekening"
+
+#: classes/notices/abstract-rate.php:35
+#: classes/notices/rate-notice-implementation.php:25
+msgid "%1$sI already did%2$s"
+msgstr "%1$sHeb ik al gedaan%2$s"
+
+#: classes/notices/abstract-rate.php:25
+#: classes/notices/rate-notice-implementation.php:15
+msgid "%1$sOk, you deserved it%2$s"
+msgstr "%1$sOk, je hebt het verdiend%2$s"
+
+#. Translators: link.
+#: classes/class-flexible-shipping-plugin.php:785
+msgid "How can We make Flexible Shipping better for you? %1$sJust write to us.%2$s"
+msgstr "Hoe kunnen we flexibel verzenden beter voor je maken? %1$sSchrijf ons gewoon.%2$s"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:65
+msgid "Enable integration with Flexible Shipping Connect"
+msgstr "Maak integratie met Flexible Shipping Connect mogelijk"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:54
+msgid "Integrations"
+msgstr "Integraties"
+
+#. Translators: rule shipping class and wp_error message.
+#: src/WPDesk/FS/TableRate/ImporterExporter/ShippingClassTrait.php:79
+msgid "Error while creating shipping class: %1$s, %2$s"
+msgstr "Fout bij het maken van verzendklasse:%1$s, %2$s"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:59
+#: classes/table-rate/views/html-shipping-settings-advanced.php:63
+msgid "FS Connect"
+msgstr "FS Connect"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:20
+msgid "How to use Flexible Shipping?"
+msgstr "Hoe flexibele verzending te gebruiken?"
+
+#: classes/table-rate/views/html-custom-services.php:37
+msgid "Drag and drop the services to control their display order. Confirm by clicking Save changes button below."
+msgstr "Versleep de diensten om hun weergavevolgorde te bepalen. Bevestig door hieronder op de knop Wijzigingen opslaan te klikken."
+
+#: classes/table-rate/views/html-custom-services.php:15
+msgid "Name"
+msgstr "Naam"
+
+#: classes/table-rate/views/html-custom-services.php:14
+msgid "Code"
+msgstr "Code"
+
+#. Translators: URL.
+#: classes/table-rate/logger/class-logger-settings.php:92
+msgid "%1$sDownload debug.log file%2$s"
+msgstr "%1$sDownload debug.log-bestand%2$s"
+
+#: classes/table-rate/logger/class-logger-settings.php:85
+msgid "Debug mode"
+msgstr "Debug modus"
+
+#: classes/table-rate/logger/class-logger-settings.php:84
+msgid "Enable Debug Mode"
+msgstr "Schakel debug mode in"
+
+#: classes/table-rate/flexible-shipping-settings.php:107
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: classes/table-rate/logger/class-logger-downloader.php:60
+msgid "Insufficient privileges!"
+msgstr "Onvoldoende rechten!"
+
+#: classes/table-rate/logger/class-logger-downloader.php:57
+msgid "File not exists!"
+msgstr "Bestand bestaat niet!"
+
+#. Translators: order id and integration.
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Order/AddShippingMetabox.php:45
+msgid "Shipment for order %1$s, %2$s"
+msgstr "Verzending voor bestelling %1$s, %2$s"
+
+#: templates/email/after_order_table.php:15
+#: templates/myaccount/after_order_table.php:18
+msgid "Track shipment: "
+msgstr "Verzending volgen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:22
+msgid "We need your help to improve <strong>WP Desk plugins</strong>, so they are more useful for you and the rest of <strong>30,000+ users</strong>. By collecting data on how you use our plugins, you will help us a lot. We will not collect any sensitive data, so you can feel safe."
+msgstr "We hebben je hulp nodig om <strong>WP Desk-plugins</strong> te verbeteren, dus ze zijn nuttiger voor jou en de rest van <strong>meer dan 30.000 gebruikers.</strong> Door gegevens te verzamelen over hoe je onze plugins gebruikt, zal je ons veel helpen. We zullen geen gevoelige gegevens verzamelen, zodat je jezelf veilig kunt voelen."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:81
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:73
+msgid "Anonymized and non-sensitive store usage information"
+msgstr "Geanonimiseerde en niet-gevoelige informatie over de webshop"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:59
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:51
+msgid "WP version, PHP info"
+msgstr "WP versie, PHP info"
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:349
+msgid "The &#8220;%s&#8221; plugin cannot run without %s active. Please install and activate %s plugin."
+msgstr "De plugin &#8220;%s&#8221; kan niet worden uitgevoerd zonder dat %s actief is. Installeer de %s plugin en activeer."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:470
+msgid "The &#8220;%s&#8221; plugin cannot run without %s php setting set to %s. Please contact your host and ask them to set %s."
+msgstr "De &#8220;%s&#8221; plugin kan niet worden uitgevoerd zonder dat de %s php-instelling is ingesteld op %s. Neem contact op met je host en vraag hen om %s in te stellen."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:445
+msgid "The &#8220;%s&#8221; plugin cannot run without %s php module installed. Please contact your host and ask them to install %s."
+msgstr "De &#8220;%s&#8221; plugin kan niet worden uitgevoerd zonder dat de %s php module is geïnstalleerd. Neem contact op met je host en vraag hen om %s te installeren."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:187
+msgid "The &#8220;%s&#8221; plugin cannot run on WooCommerce versions older than %s. Please update WooCommerce."
+msgstr "De plugin &#8220;%s&#8221; kan niet worden uitgevoerd op WooCommerce versies die ouder zijn dan %s. Update WooCommerce."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:184
+msgid "The &#8220;%s&#8221; plugin cannot run on WordPress versions older than %s. Please update WordPress."
+msgstr "De plugin &#8220;%s&#8221; kan niet worden uitgevoerd op WordPress versies die ouder zijn dan %s. Update WordPress."
+
+#: vendor_prefixed/wpdesk/wp-basic-requirements/src/Basic_Requirement_Checker.php:181
+msgid "The &#8220;%s&#8221; plugin cannot run on PHP versions older than %s. Please contact your host and ask them to upgrade."
+msgstr "De plugin &#8220;%s&#8221; kan niet worden uitgevoerd op PHP versies die ouder zijn dan %s. neem contact op met je host en vraag hen om te upgraden."
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:50
+msgid "Conditional Cash on Delivery"
+msgstr "Voorwaardelijk betalen bij levering"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:49
+msgid "Shipping Insurance"
+msgstr "Verzend verzekering"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:48
+msgid "Weight Based Shipping"
+msgstr "Op gewicht gebaseerde verzending"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:47
+msgid "Currency Support"
+msgstr "Valuta ondersteuning"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:46
+msgid "Adding a shipping method"
+msgstr "Een verzendmethode toevoegen"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:45
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:190
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:42
+msgid "More resources"
+msgstr "Meer hulpbronnen"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:36
+msgid "Quick Video Overview"
+msgstr "Snel video-overzicht"
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:33
+msgid "You can start the configuration by clicking the Flexible Shipping link in the Shipping methods table."
+msgstr "Je kunt de configuratie starten door te klikken op de link Flexibel verzenden in de tabel Verzendmethoden."
+
+#: classes/table-rate/views/html-shipping-settings-advanced.php:26
+msgid "To add first Flexible Shipping method go to %sShipping zones%s and add Flexible Shipping to a shipping zone."
+msgstr "Als je de eerste methode Flexibel verzenden wilt toevoegen, gaat je naar %sVerzend zones%s en voeg je Flexibel verzenden toe aan een verzendzone."
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:31
+#: src/WPDesk/FS/Info/views/fs-pro.php:21
+msgid "Additional calculation methods"
+msgstr "Aanvullende berekeningsmethoden"
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:28
+#: src/WPDesk/FS/Info/views/fs-pro.php:17
+msgid "Stopping, Cancelling a rule"
+msgstr "Stoppen, annuleren van een regel"
+
+#: classes/table-rate/bulk-actions.php:461
+msgid "Bulk labels - processed orders: %d. No labels for processed orders."
+msgstr "Bulklabels - verwerkte bestellingen: %d. Geen labels voor verwerkte bestellingen."
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:389
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:397
+msgid "%1$sAdd integration%2$s"
+msgstr "%1$sVoeg integratie toe %2$s"
+
+#. Translators: link.
+#: src/WPDesk/FS/TableRate/ContextualInfo/Creator.php:381
+msgid "%1$sAdd integrations%2$s"
+msgstr "%1$sVoeg integraties toe %2$s"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Order/views/html-order-add_shipping-metabox.php:18
+msgid "Add"
+msgstr "Toevoegen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Order/AddShippingMetabox.php:84
+msgid "Add shipping"
+msgstr "Verzending toevoegen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Order/AddShippingMetabox.php:82
+msgid "Select integration"
+msgstr "Selecteer integratie"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-opt-out-notice.php:11
+msgid "You successfully opted out of collecting usage data by WP Desk. If you change your mind, you can always opt in later in the plugin's quick links."
+msgstr "Je hebt je met succes uitgeschreven voor het verzamelen van gebruiksgegevens door WP Desk. Als je van gedachten verandert, kun je jezelf later altijd aanmelden via de link in de plugin."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:41
+msgid "Allow"
+msgstr "Toestaan"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/scripts.php:115
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:126
+msgid "Submit &amp; Deactivate"
+msgstr "Verzenden & deactiveren"
+
+#: classes/views/deactivation_thickbox.php:117
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:120
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:110
+msgid "Skip &amp; Deactivate"
+msgstr "Overslaan &amp; Deactiveren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:98
+msgid "Kindly tell us the reason so we can improve"
+msgstr "Kun je ons de reden vertellen, zodat wij de plugin kunnen verbeteren."
+
+#: classes/class-flexible-shipping-plugin.php:340
+#: classes/views/deactivation_thickbox.php:106
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:103
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:93
+msgid "Other"
+msgstr "Anders"
+
+#: classes/views/deactivation_thickbox.php:98
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:93
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:83
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Het is een tijdelijke deactivatie. Ik ben iets aan het debuggen."
+
+#: classes/views/deactivation_thickbox.php:90
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:83
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:73
+msgid "I no longer need the plugin"
+msgstr "Ik heb de plugin niet meer nodig"
+
+#: classes/views/deactivation_thickbox.php:82
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:73
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:63
+msgid "I only needed the plugin for a short period"
+msgstr "Ik had de plugin slechts voor een korte periode nodig"
+
+#: classes/views/deactivation_thickbox.php:74
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:63
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:53
+msgid "What's the plugin's name?"
+msgstr "Wat is de naam van de plugin?"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:48
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: classes/views/deactivation_thickbox.php:52
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:48
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:38
+msgid "The plugin broke my site"
+msgstr "Door de plugin werkt mijn site niet meer"
+
+#: classes/views/deactivation_thickbox.php:44
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:38
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:28
+msgid "The plugin suddenly stopped working"
+msgstr "De plugin stopte plotseling met werken"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:19
+msgid " If you have a moment, please let us know why you are deactivating plugin (anonymous feedback):"
+msgstr " Als je even tijd hebt, laat ons dan weten waarom je de plugin deactiveert (anonieme feedback):"
+
+#. Translators: plugin name.
+#: classes/views/deactivation_thickbox.php:25
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:20
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:11
+msgid "You are deactivating %s plugin."
+msgstr "Je deactiveert de plugin %s."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:91
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:83
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:27
+msgid "Find out more &raquo;"
+msgstr "Meer informatie &raquo;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:78
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:70
+msgid "Your Store Overview"
+msgstr "Je winkel overzicht"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:62
+msgid "Current settings and usage information of WP Desk plugins"
+msgstr "Huidige instellingen en gebruiksinformatie van de WP Desk plugins"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:67
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:59
+msgid "Plugin Usage"
+msgstr "Plugin gebruik"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:56
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:48
+msgid "Your Site Overview"
+msgstr "Je site overzicht"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:47
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:39
+msgid "What permissions are being granted?"
+msgstr "Welke rechten worden verleend?"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-user-feedback/src/WPDesk/Tracker/UserFeedback/views/thickbox.php:103
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:40
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:32
+msgid "Skip"
+msgstr "Overslaan"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:35
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:27
+msgid "Allow & Continue &rarr;"
+msgstr "Toestaan & doorgaan &rarr;"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:26
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:18
+msgid "Please help us improve our plugins! If you opt-in, we will collect some non-sensitive data and usage information anonymously. If you skip this, that's okay! All plugins will work just fine."
+msgstr "Help ons onze plugins te verbeteren! Als je jezelf aanmeldt, verzamelen we enkele niet-gevoelige gegevens en gebruiksinformatie anoniem. Als je dit overslaat, is dat goed! Alle plugins werken prima."
+
+#. Translators: username.
+#: src/WPDesk/FS/Tracker/TrackerNotices.php:42
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/views/tracker-connect.php:23
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-connect.php:15
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-notice.php:19
+msgid "Hey %s,"
+msgstr "Hallo %s,"
+
+#: classes/class-flexible-shipping-plugin.php:874
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: classes/tracker/tracker.php:207
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:53
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: classes/tracker/tracker.php:204
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/PSR/WPDesk/Tracker/PluginActionLinks.php:50
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:68
+msgid "Shipment data"
+msgstr "Verzendgegevens"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Mislukt <span class=\"count\">(%s)</span>"
+msgstr[1] "Mislukt <span class=\"count\">(%s)</span>"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgctxt "Shipment status"
+msgid "Failed"
+msgstr "Mislukt"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgctxt "Shipment status"
+msgid "Manifest created"
+msgstr "Manifest gemaakt"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] "Bevestigd <span class=\"count\">(%s)</span>"
+msgstr[1] "Bevestigd <span class=\"count\">(%s)</span>"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgctxt "Shipment status"
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgid "Created <span class=\"count\">(%s)</span>"
+msgid_plural "Created <span class=\"count\">(%s)</span>"
+msgstr[0] "Gemaakt <span class=\"count\">(%s)</span>"
+msgstr[1] "Gemaakt <span class=\"count\">(%s)</span>"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgctxt "Shipment status"
+msgid "Created"
+msgstr "Gemaakt"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgid "New <span class=\"count\">(%s)</span>"
+msgid_plural "New <span class=\"count\">(%s)</span>"
+msgstr[0] "Nieuw <span class=\"count\">(%s)</span>"
+msgstr[1] "Nieuw <span class=\"count\">(%s)</span>"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:45
+msgctxt "Shipment status"
+msgid "New"
+msgstr "Nieuw"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Shipments."
+msgstr "Verzendingen."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Shipment not found in trash"
+msgstr "Verzending niet gevonden in de prullenbak"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Shipment not found"
+msgstr "Verzending niet gevonden"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Search Shipments"
+msgstr "Zoek verzendingen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Save Shipment"
+msgstr "Bewaar verzending"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Edit Shipment"
+msgstr "Verzending bewerken"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "Add new Shipment"
+msgstr "Nieuwe verzending toevoegen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+msgid "View Shipments"
+msgstr "Bekijk verzendingen"
+
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:52
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:43
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:33
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:26
+msgid "No data!"
+msgstr "Geen gegevens."
+
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:29
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:22
+msgid "No shipment id!"
+msgstr "Geen verzend-ID!"
+
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:25
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:18
+msgid "Nonce verification error! Invalid request."
+msgstr "Nonce verificatiefout! Ongeldig verzoek."
+
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:22
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:15
+msgid "Unknown error!"
+msgstr "Onbekende fout."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/manifest-metabox.php:20
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/manifest-metabox.php:79
+msgid "Order"
+msgstr "Bestelling"
+
+#: templates/email/after_order_table.php:12
+#: templates/myaccount/after_order_table.php:15
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/manifest-metabox.php:15
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/manifest-metabox.php:74
+msgid "Shipment"
+msgstr "Verzending"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/filter-form.php:11
+msgid "All manifests"
+msgstr "Alle manifesten"
+
+#: classes/views/deactivation_thickbox.php:116
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/column-actions.php:16
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-deactivation/src/WPDesk/Tracker/Deactivation/views/thickbox.php:117
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker-user-feedback/src/WPDesk/Tracker/UserFeedback/views/thickbox.php:98
+#: vendor_prefixed/wpdesk/wp-wpdesk-tracker/src/views/tracker-deactivate.php:107
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/column-actions.php:11
+msgid "Download"
+msgstr "Download"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:153
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:175
+msgid "Invalid nonce!"
+msgstr "Ongeldige nonce."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:97
+msgid "Shipments count"
+msgstr "Aantal zendingen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:96
+msgid "Number"
+msgstr "Aantal"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:94
+msgid "Date"
+msgstr "Datum"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/CustomPostType.php:44
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:55
+msgid "Shipments"
+msgstr "Verzendingen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Shipping Manifests."
+msgstr "Verzendmanifesten."
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Shipping Manifests not found in trash"
+msgstr "Verzendmanifesten niet gevonden in prullenbak"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Shipping Manifests not found"
+msgstr "Verzendmanifesten niet gevonden"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Search Shipping Manifests"
+msgstr "Zoek naar verzendmanifesten"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Save Shipping Manifest"
+msgstr "Verzendmanifest opslaan"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Edit Shipping Manifest"
+msgstr "Verzendmanifest bewerken"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Add new Shipping Manifests"
+msgstr "Voeg nieuwe verzendmanifesten toe"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Add new Shipping Manifest"
+msgstr "Nieuw verzendmanifest toevoegen"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "View Shipping Manifests"
+msgstr "Bekijk verzendmanifesten"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+msgid "Shipping Manifest"
+msgstr "Verzendmanifest"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:33
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:39
+msgid "Shipping Manifests"
+msgstr "Verzendmanifesten"
+
+#: classes/table-rate/bulk-actions.php:485
+msgid "Bulk shipping manifest - processed orders: %d"
+msgstr "Bulkverzending manifest - verwerkte bestellingen: %d"
+
+#: classes/table-rate/bulk-actions.php:434
+msgid "No manifests created."
+msgstr "Er zijn geen manifesten gemaakt."
+
+#: classes/table-rate/bulk-actions.php:423
+msgid "Manifest creation error: %s (%s)."
+msgstr "Fout bij het aanmalken van een nieuw verzendmanifesten: %s (%s)."
+
+#. Translators: manifests count and integration.
+#: classes/table-rate/bulk-actions.php:412
+msgid "Created manifest: %s (%s). If download not start automatically click %shere%s."
+msgstr "Gemaakt manifest: %s (%s). Als het downloaden niet automatisch start, klik dan op %s hier %s."
+
+#: classes/table-rate/bulk-actions.php:307
+msgid "Shipment created."
+msgstr "Zending aangemaakt."
+
+#: classes/table-rate/bulk-actions.php:277
+msgid "Create shipping manifest"
+msgstr "Maak een verzendmanifest"
+
+#: classes/table-rate/bulk-actions.php:274
+msgid "Send shipment"
+msgstr "Zending verzenden"
+
+#: classes/table-rate/bulk-actions.php:200
+msgid "Manifest created"
+msgstr "Manifest gemaakt"
+
+#: classes/table-rate/bulk-actions.php:197
+msgid "New shipment"
+msgstr "Nieuwe verzending"
+
+#: classes/table-rate/bulk-actions.php:81
+msgid "Manifest"
+msgstr "Manifest"
+
+#: classes/table-rate/views/html-orders-filter-form.php:13
+msgid "Shipment status"
+msgstr "Verzendstatus"
+
+#: classes/table-rate/views/html-orders-filter-form.php:4
+#: classes/table-rate/views/html-orders-filter-form.php:12
+msgid "All shippings"
+msgstr "Alle verzendingen"
+
+#: classes/table-rate/views/html-column-shipping-shipping.php:14
+msgid "Track shipment for: "
+msgstr "Zending volgen voor: "
+
+#: classes/table-rate/views/html-column-shipping-shipping.php:11
+msgid "Get label for: "
+msgstr "Etiket ophalen voor: "
+
+#: classes/table-rate/bulk-actions.php:472
+msgid "Bulk labels - processed orders: %d. If download not start automatically click %shere%s."
+msgstr "Bulketiketen - verwerkte bestellingen: %d. Als het downloaden niet automatisch start, klik %s hier %s."
+
+#: classes/table-rate/bulk-actions.php:454
+msgid "Bulk send shipment - processed orders: %d"
+msgstr "Verzending in bulk - verwerkte bestellingen: %d"
+
+#: classes/table-rate/bulk-actions.php:353
+msgid "Unable to create temporary zip archive for labels. Check temporary folder configuration on server."
+msgstr "Kan geen tijdelijk zip-archief voor etiketten maken. Controleer de configuratie van de tijdelijke map op de server."
+
+#: classes/table-rate/bulk-actions.php:320
+msgid "No action performed."
+msgstr "Geen actie uitgevoerd."
+
+#: classes/table-rate/bulk-actions.php:275
+msgid "Get labels"
+msgstr "haal etiketten op"
+
+#: classes/table-rate/bulk-actions.php:254
+#: classes/table-rate/bulk-actions.php:260
+msgid "Shipping"
+msgstr "Verzending"
+
+#: classes/table-rate/bulk-actions.php:196
+#: classes/table-rate/bulk-actions.php:223
+#: vendor_prefixed/wpdesk/wp-logs/src/deprecated/wpdesk-logger.php:59
+msgid "Error"
+msgstr "Fout"
+
+#: classes/table-rate/bulk-actions.php:82
+msgid "Failed"
+msgstr "Mislukt"
+
+#: classes/table-rate/bulk-actions.php:80
+#: classes/table-rate/bulk-actions.php:199
+msgid "Confirmed"
+msgstr "Bevestigd"
+
+#: classes/table-rate/bulk-actions.php:79
+#: classes/table-rate/bulk-actions.php:198
+#: classes/wp-wpdesk-fs-shipment/metabox/ajax.php:55
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Metabox/Ajax.php:46
+msgid "Created"
+msgstr "Aangemaakt"
+
+#: classes/table-rate/bulk-actions.php:78
+msgid "New"
+msgstr "Nieuw"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:212
+msgid "Select file to import"
+msgstr "Selecteer te importeren bestand"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:179
+msgid "Please select shipment methods to remove"
+msgstr "Selecteer de verzendmethoden om deze te verwijderen"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:110
+#: classes/table-rate/views/html-shipping-method-settings.php:113
+msgid "Import"
+msgstr "Importeer"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:105
+msgid "Cancel import"
+msgstr "Import annuleren"
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:25
+#: src/WPDesk/FS/Info/views/fs-pro.php:13
+msgid "Product count based costs"
+msgstr "Op product aantallen gebaseerde kosten"
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:22
+#: src/WPDesk/FS/Info/views/fs-pro.php:9
+msgid "Shipping Classes support"
+msgstr "Ondersteuning voor verzendklassen"
+
+#: classes/table-rate/views/ads/html-ads-fs-pro.php:13
+#: src/WPDesk/FS/Info/FSPro.php:18
+msgid "Get Flexible Shipping PRO!"
+msgstr "Koop Flexible Shipping PRO!"
+
+#. Translators: imported method title and method title.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:326
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/JSON.php:54
+msgid "Shipping method %1$s imported as %2$s."
+msgstr "Verzendmethode %1$s geïmporteerd als %2$s."
+
+#. Translators: column name, value and row number.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:178
+msgid "%1$s value %2$s is not valid number. Row number %3$d."
+msgstr "%1$s waarde %2$s is geen geldig getal. Regelnummer %3$d."
+
+#. Translators: row number.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:236
+msgid "Invalid value for Based On in row number %d."
+msgstr "Ongeldige waarde voor Gebaseerd Op regelnummer %d."
+
+#. Translators: row number.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:145
+msgid "Invalid value for Calculation Method in row number %d."
+msgstr "Ongeldige waarde voor berekeningsmethode op regelnummer %d."
+
+#. Translators: maximum cost value and row number.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:128
+msgid "Maximum Cost value %1$s is not valid number. Row number %2$d."
+msgstr "Waarde maximale Kosten %1$s is geen geldig getal. Regelnummer %2$d."
+
+#. Translators: free shipping value and row number.
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:117
+msgid "Free Shipping value %1$s is not valid number. Row number %2$d."
+msgstr "Waarde gratis verzending %1$s is geen geldig nummer. Regelnummer %2$d."
+
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/AbstractImporter.php:75
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/AbstractImporter.php:77
+msgid "import"
+msgstr "import"
+
+#: src/WPDesk/FS/TableRate/ImporterExporter/Importer/CSV.php:100
+msgid "Sorry, there has been an error. The CSV is invalid or incorrect file type."
+msgstr "Er is een fout opgetreden. De CSV is een ongeldig of onjuist bestandstype."
+
+#: classes/table-rate/views/html-shipping-method-settings.php:98
+msgid "Remove selected"
+msgstr "Verwijder geselecteerde"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:20
+msgid "Select all"
+msgstr "Selecteer alles"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:81
+msgid "Free Shipping Label"
+msgstr "Gratis verzendings label"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:37
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:354
+msgid "Free"
+msgstr "Gratis"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:69
+msgid "This controls method description which the user sees during checkout."
+msgstr "Dit controleert de methodebeschrijving die de gebruiker ziet tijdens het afrekenen."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:67
+msgid "Method Description"
+msgstr "Methode beschrijving "
+
+#. Description of the plugin
+msgid "Create additional shipment methods in WooCommerce and enable pricing based on cart weight or total."
+msgstr "Creëer extra verzendmethoden in WooCommerce en activeer prijzen op basis van het gewicht van de winkelwagen of het totaal."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/flexible-shipping/"
+msgstr "https://wordpress.org/plugins/flexible-shipping/"
+
+#. Translators: redirect URL.
+#: inc/functions.php:77
+msgid "Redirecting. If page not redirects click %1$s here %2$s."
+msgstr "Omleiden. Als de pagina niet wordt omgeleid, klik dan %1$s hier %2$s."
+
+#: classes/notices/admin-notices.php:119
+msgid "Flexible Shipping requires at least version 1.1 of Orlen Paczka plugin."
+msgstr "Flexible Shipping vereist ten minimale versie 1.1 van de Orlen Paczka plugin."
+
+#: classes/notices/admin-notices.php:104
+msgid "Flexible Shipping requires at least version 1.2 of eNadawca plugin."
+msgstr "Flexible Shipping vereist ten minimale versie 1.2 van de eNadawca plugin."
+
+#: classes/notices/admin-notices.php:89
+msgid "Flexible Shipping requires at least version 2.7 of Active Payments plugin."
+msgstr "Flexible Shipping vereist ten minimale versie 2.7 van de Active Payments plugin."
+
+#: classes/table-rate/views/html-shipping-method-settings.php:91
+msgid "Drag and drop the above shipment methods to control their display order. Confirm by clicking Save changes button below."
+msgstr "Versleep de bovenstaande verzendmethoden om hun weergavevolgorde te regelen. Bevestig door hieronder op de knop Wijzigingen opslaan te klikken."
+
+#: classes/table-rate/views/html-shipping-method-settings.php:66
+msgid "Show for all users"
+msgstr "Toon voor alle gebruikers"
+
+#. Translators: matched condition.
+#. Translators: add method.
+#. Translators: free shipping.
+#: classes/table-rate/views/html-shipping-method-settings.php:55
+#: classes/table-rate/views/html-shipping-method-settings.php:63
+#: classes/table-rate/views/html-shipping-method-settings.php:72
+#: src/WPDesk/FS/TableRate/Rule/Condition/AbstractCondition.php:151
+#: src/WPDesk/FS/TableRate/Rule/Condition/None.php:64
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:252
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:258
+#: src/WPDesk/FS/TableRate/ShippingMethod/RateCalculator.php:269
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/CheckboxValue.php:23
+msgid "yes"
+msgstr "ja"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:98
+msgid "Actions"
+msgstr "Acties"
+
+#: classes/table-rate/views/html-custom-services.php:17
+#: classes/table-rate/views/html-shipping-method-settings.php:14
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:13
+msgid "Title"
+msgstr "Titel"
+
+#: classes/table-rate/views/html-shipping-method-scripts.php:25
+#: classes/table-rate/views/html-shipping-method-settings.php:131
+#: src/WPDesk/FS/Info/WooCommerceABC.php:33
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:37
+msgid "Shipping Zones"
+msgstr "Verzendzones"
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleCostFieldsFactory.php:52
+msgid "Enter shipment cost for this rule."
+msgstr "Voer de verzendkosten in voor deze regel."
+
+#: src/WPDesk/FS/TableRate/Rule/Cost/RuleCostFieldsFactory.php:50
+msgid "Cost per order"
+msgstr "Kosten per bestelling"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Weight.php:34
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:36
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/BasedOnOptions.php:20
+msgid "Weight"
+msgstr "Gewicht"
+
+#: src/WPDesk/FS/TableRate/Rule/Condition/Price.php:34
+#: src/WPDesk/FS/TableRate/Rule/PreconfiguredScenarios/PreconfiguredScenariosFactory.php:55
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/BasedOnOptions.php:20
+msgid "Price"
+msgstr "Prijs"
+
+#: classes/table-rate/shipping-method.php:492
+msgid "Shipping method %s updated."
+msgstr "Verzendmethode %s is geüpdatet."
+
+#: classes/table-rate/shipping-method.php:466
+msgid "Shipping method not found."
+msgstr "Verzendmethode niet gevonden."
+
+#: classes/table-rate/shipping-method.php:463
+msgid "Shipping method %s deleted."
+msgstr "Verzendmethode %s is verwijderd."
+
+#: classes/table-rate/shipping-method.php:437
+#: classes/table-rate/shipping-method.php:480
+msgid "Shipping method %s added."
+msgstr "Verzendmethode %s is toegevoegd."
+
+#: classes/table-rate/shipping-method.php:427
+msgid "Edit Shipping Method"
+msgstr "Bewerk Verzendmethode"
+
+#: classes/table-rate/shipping-method.php:424
+msgid "New Shipping Method"
+msgstr "Nieuwe verzendmethode"
+
+#: classes/table-rate/shipping-method.php:196
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: classes/table-rate/shipping-method.php:92
+msgid "Shipping Title"
+msgstr "Titel verzending"
+
+#: src/WPDesk/FS/TableRate/Rule/SpecialAction/None.php:19
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:167
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/BasedOnOptions.php:20
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/IntegrationSettingsImplementation.php:40
+msgid "None"
+msgstr "Geen"
+
+#: classes/table-rate/views/html-orders-filter-form.php:5
+#: classes/table-rate/views/html-shipping-method-settings.php:17
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:175
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/CustomPostType.php:95
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-shipment/src/WPDesk/FS/Shipment/Manifest/views/filter-form.php:14
+msgid "Integration"
+msgstr "Integratie"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:126
+msgid "Check the box to set this option as the default selected choice on the cart page."
+msgstr "Vink het vakje aan om deze optie in te stellen als de standaard geselecteerde keuze op de winkelwagenpagina."
+
+#: classes/table-rate/views/html-shipping-method-settings.php:16
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:123
+msgid "Default"
+msgstr "Standaard"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:63
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:120
+msgid "Show only for logged in users"
+msgstr "Toon aleen aan ingelogde gebruikers"
+
+#: classes/table-rate/views/html-shipping-method-settings.php:15
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:117
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/CalculationMethodOptions.php:20
+msgid "Sum"
+msgstr "Som"
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:103
+msgid "Select how rules will be calculated. If you choose \"sum\" the rules order is important."
+msgstr "Selecteer hoe de regels worden berekend. Als je \"som\" kiest, is de volgorde van de regels belangrijk."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:77
+msgid "Enter a minimum order amount for free shipment. This will override the costs configured below."
+msgstr "Voer een minimum bestelbedrag in voor gratis verzending. Dit heeft voorrang op de hieronder geconfigureerde kosten."
+
+#: src/WPDesk/FS/Info/WooCommerceABCPL.php:45
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:74
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:197
+msgid "Free Shipping"
+msgstr "Gratis verzending"
+
+#: classes/table-rate/shipping-method.php:94
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:61
+msgid "This controls the title which the user sees during checkout."
+msgstr "Dit bepaalt de omschrijving die de gebruiker ziet tijdens het afrekenen."
+
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:59
+msgid "Method Title"
+msgstr "Methode Titel"
+
+#: classes/table-rate/shipping-method.php:88
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:56
+msgid "Enable this shipment method"
+msgstr "Schakel deze verzendmethode in"
+
+#: classes/table-rate/settings/flexible-shipping.php:45
+#: classes/table-rate/settings/flexible-shipping.php:50
+#: src/WPDesk/FS/Info/WooCommerceABC.php:41
+msgid "Shipping Methods"
+msgstr "Verzendmethodes"
+
+#: classes/table-rate/settings/flexible-shipping.php:41
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:60
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/MethodSettingsImplementation.php:279
+msgctxt "Tax status"
+msgid "None"
+msgstr "Geen"
+
+#: classes/table-rate/settings/flexible-shipping.php:40
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:59
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-table-rate/src/Settings/MethodSettingsImplementation.php:279
+msgid "Taxable"
+msgstr "Belastbaar"
+
+#: classes/table-rate/settings/flexible-shipping.php:35
+#: src/WPDesk/FS/TableRate/ShippingMethod/SingleMethodSettings.php:55
+msgid "Tax Status"
+msgstr "Belastingstatus"
+
+#: classes/table-rate/settings/flexible-shipping.php:30
+msgid "Visible only to admin in WooCommerce settings."
+msgstr "Alleen zichtbaar voor beheerder in WooCommerce instellingen."
+
+#: classes/table-rate/settings/flexible-shipping.php:28
+msgid "Shipping title"
+msgstr "Verzendtitel "
+
+#: classes/table-rate/settings/flexible-shipping.php:24
+msgid "Enable Flexible Shipping"
+msgstr "Inschakelen Flexible Shipping"
+
+#: classes/table-rate/settings/flexible-shipping.php:22
+#: classes/table-rate/shipping-method.php:86
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:53
+msgid "Enable/Disable"
+msgstr "Inschakelen/Uitschakelen"
+
+#. Translators: link.
+#: classes/table-rate/settings/flexible-shipping.php:19
+msgid "See how to %1$sconfigure Flexible Shipping%2$s."
+msgstr "Bekijk hoe je %1$sFlexible Shipping%2$s configureert."
+
+#. Plugin Name of the plugin
+#: classes/table-rate/multilingual.php:46
+#: classes/table-rate/multilingual.php:49
+#: classes/table-rate/multilingual.php:52
+#: classes/table-rate/settings/flexible-shipping.php:16
+#: classes/table-rate/settings/flexible-shipping.php:31
+#: classes/table-rate/shipping-method.php:95
+#: src/WPDesk/FS/TableRate/ShippingMethod/CommonMethodSettings.php:154
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateAction.php:76
+#: src/WPDesk/FS/TableRate/ShippingMethod/Duplicate/DuplicateScript.php:67
+#: src/WPDesk/FS/TableRate/ShippingMethodSingle.php:63
+#: vendor_prefixed/wpdesk/wp-wpdesk-fs-compatibility/src/PluginCompatibilityChecker.php:94
+msgid "Flexible Shipping"
+msgstr "Flexible Shipping"
+
+#: classes/class-flexible-shipping-plugin.php:869
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:191
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: classes/class-flexible-shipping-plugin.php:868
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:194
+msgid "Docs"
+msgstr "Documentatie"
+
+#: classes/class-flexible-shipping-plugin.php:864
+#: vendor_prefixed/wpdesk/wp-builder/src/Plugin/AbstractPlugin.php:198
+msgid "Settings"
+msgstr "Instellingen"

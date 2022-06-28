@@ -1,0 +1,143 @@
+# Translation of Plugins - Fast Velocity Minify - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Fast Velocity Minify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-27 06:40:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Fast Velocity Minify - Stable (latest release)\n"
+
+#: inc/common.php:238
+msgid "All caches on <strong>Breeze</strong> have been purged."
+msgstr "Toda la caché de <strong>Breeze</strong> ha sido purgada."
+
+#: inc/common.php:244
+msgid "All caches on <strong>Swift Performance</strong> have been purged."
+msgstr "Toda la caché de <strong>Swift Performance</strong> ha sido purgada."
+
+#: inc/common.php:264
+msgid "All caches on <strong>SG Optimizer</strong> have been purged."
+msgstr "Toda la caché de <strong>SG Optimizer</strong> ha sido purgada."
+
+#: inc/common.php:270
+msgid "A cache purge request has been sent to <strong>Go Daddy Varnish</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>Go Daddy Varnish</strong>"
+
+#: inc/common.php:279
+msgid "A cache purge request has been sent to <strong>WP Engine</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>WP Engine</strong>"
+
+#: inc/common.php:288
+msgid "A cache purge request has been sent to <strong>Kinsta</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>Kinsta</strong>"
+
+#: inc/common.php:296
+msgid "A cache purge request has been sent to <strong>Pagely</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>Pagely</strong>"
+
+#: inc/common.php:303
+msgid "A cache purge request has been sent to <strong>Pressidium</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>Pressidium</strong>"
+
+#: inc/common.php:311
+msgid "A cache purge request has been sent to <strong>Savvii</strong>"
+msgstr "Ha sido enviada una solicitud de purga de la caché a <strong>Savvii</strong>"
+
+#: inc/common.php:119 inc/common.php:124 inc/admin.php:102 inc/admin.php:106
+#: inc/admin.php:149 inc/admin.php:238 inc/admin.php:255 inc/admin.php:260
+#: inc/admin.php:266
+msgid "Error:"
+msgstr "Error:"
+
+#: inc/admin.php:106
+msgid "Invalid nounce. Please refresh and try again."
+msgstr "Nonce no válido. Por favor, refresca e inténtalo de nuevo."
+
+#: inc/admin.php:149
+msgid "Invalid data!"
+msgstr "¡Datos no válidos!"
+
+#: inc/admin.php:260
+msgid "WP_CONTENT_DIR is undefined!"
+msgstr "¡No está definido `WP_CONTENT_DIR`!"
+
+#: inc/common.php:16
+msgid "FVM"
+msgstr "FVM"
+
+#: inc/common.php:24
+msgid "Clear Everything"
+msgstr "Vaciar todo"
+
+#: inc/common.php:32
+msgid "FVM Settings"
+msgstr "Ajustes de FVM"
+
+#: layout/admin-layout.php:14 inc/common.php:50
+msgid "Help"
+msgstr "Ayuda"
+
+#: inc/common.php:173
+msgid "All caches on <strong>W3 Total Cache</strong> have been purged."
+msgstr "Toda la caché de <strong>W3 Total Cache</strong> ha sido purgada."
+
+#: inc/common.php:179
+msgid "All caches on <strong>WP Super Cache</strong> have been purged."
+msgstr "Toda la caché de <strong>WP Super Cache</strong> ha sido purgada."
+
+#: inc/common.php:185
+msgid "All caches on <strong>WP Rocket</strong> have been purged."
+msgstr "Toda la caché de <strong>WP Rocket</strong> ha sido purgada."
+
+#: inc/common.php:191
+msgid "All caches on <strong>Cachify</strong> have been purged."
+msgstr "Toda la caché de <strong>Cachify</strong> ha sido purgada."
+
+#: inc/common.php:197 inc/common.php:203
+msgid "All caches on <strong>Comet Cache</strong> have been purged."
+msgstr "Toda la caché de <strong>Comet Cache</strong> ha sido purgada."
+
+#: inc/common.php:209
+msgid "All caches on <strong>LiteSpeed Cache</strong> have been purged."
+msgstr "Toda la caché de <strong>LiteSpeed Cache</strong> ha sido purgada."
+
+#: inc/common.php:221
+msgid "All caches on <strong>HyperCache</strong> have been purged."
+msgstr "Toda la caché de <strong>HyperCache</strong> ha sido purgada."
+
+#: inc/common.php:227
+msgid "All caches on <strong>Cache Enabler</strong> have been purged."
+msgstr "Toda la caché de <strong>Cache Enabler</strong> ha sido purgada."
+
+#. Description of the plugin
+msgid "Improve your speed score on GTmetrix, Pingdom Tools and Google PageSpeed Insights by merging and minifying CSS and JavaScript files into groups, compressing HTML and other speed optimizations."
+msgstr "Mejora tu puntuación de velocidad en GTmetrix, Pingdom Tools y Google PageSpeed ​​Insights fusionando y minimizando los archivos CSS y JavaScript en grupos, comprimiendo HTML y otras optimizaciones de velocidad."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://fastvelocity.com"
+msgstr "https://fastvelocity.com/"
+
+#: layout/admin-layout-status.php:16
+msgid "Server Info"
+msgstr "Información del servidor"
+
+#: inc/common.php:124
+msgid "Invalid or expired request... please go back and refresh before trying again!"
+msgstr "Solicitud no válida o caducada... por favor, ¡regresa y actualiza antes de intentarlo nuevamente!"
+
+#: inc/common.php:119 inc/admin.php:102 inc/admin.php:238 inc/admin.php:255
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+#. Author of the plugin
+msgid "Raul Peixoto"
+msgstr "Raul Peixoto"
+
+#. Plugin Name of the plugin
+msgid "Fast Velocity Minify"
+msgstr "Fast Velocity Minify"

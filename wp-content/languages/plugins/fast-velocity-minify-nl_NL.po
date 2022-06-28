@@ -1,0 +1,640 @@
+# Translation of Plugins - Fast Velocity Minify - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Fast Velocity Minify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-31 12:22:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Fast Velocity Minify - Stable (latest release)\n"
+
+#: layout/admin-layout-settings.php:220
+msgid "Will disable JS Files minification for testing purposes"
+msgstr "Schakelt de verkleining van JS bestanden uit voor testdoeleinden"
+
+#: layout/admin-layout-settings.php:78
+msgid "Will disable HTML minification for compatibility purposes"
+msgstr "Schakelt HTMLverkleining uit voor compatibiliteit doeleinden"
+
+#: inc/common.php:215
+msgid "All caches on <strong>WP Cloudflare Super Page Cache</strong> have been purged."
+msgstr "Alle caches op <strong>WP Cloudflare Super Page Cache</strong> zijn gewist."
+
+#: inc/admin.php:314
+msgid "Database error!"
+msgstr "Database fout!"
+
+#: layout/admin-layout-status.php:12
+msgid "In this section, you can check the latest logs for CSS and JS files"
+msgstr "In deze sectie kun je de laatste logs voor CSS- en JS-bestanden bekijken"
+
+#: layout/admin-layout-status.php:11
+msgid "Latest Logs"
+msgstr "Laatste logs"
+
+#: layout/admin-layout-settings.php:360
+msgid "Additional replacement rules with syntax from <code>https://simplehtmldom.sourceforge.io/manual.htm</code>"
+msgstr "Aanvullende vervangingsregels met syntaxis van <code>https://simplehtmldom.sourceforge.io/manual.htm</code>"
+
+#: layout/admin-layout-settings.php:358
+msgid "Missing HTML elements to replace"
+msgstr "Ontbrekende HTML-elementen om te vervangen"
+
+#: layout/admin-layout-settings.php:350
+msgid "You can ignore this if your CDN url matches your domain name (ie: Cloudflare)"
+msgstr "Je kunt dit negeren als je CDN url overeenkomt met je domeinnaam (dwz: Cloudflare)"
+
+#: layout/admin-layout-settings.php:296
+msgid "Will match using <code>PHP stripos</code> against the inline script <code>innerHTML</code> or <code>src</code> attribute for JS files"
+msgstr "Komt overeen met het gebruik van <code>PHP stripos</code> tegen het inline script <code>innerHTML</code> of <code>src</code> attribuut voor JS bestanden"
+
+#: layout/admin-layout-settings.php:295
+msgid "Used interaction events: mouseover, keydown, touchstart, touchmove and wheel"
+msgstr "Gebruikte interactiegebeurtenissen: mouseover, keydown, touchstart, touchmove en wheel"
+
+#: layout/admin-layout-settings.php:289
+msgid "Delay JS files or inline scripts until user interaction"
+msgstr "Stel JS bestanden of inline-scripts uit tot gebruikersinteractie"
+
+#: layout/admin-layout-settings.php:287
+msgid "Delay third party scripts until user interaction"
+msgstr "Stel scripts van derden uit tot interactie met de gebruiker"
+
+#: layout/admin-layout-settings.php:281
+msgid "Inline JavaScript matching these rules, will be deferred with script type module"
+msgstr "Inline JavaScript dat aan deze regels voldoet, wordt uitgesteld met de script type module"
+
+#: layout/admin-layout-settings.php:274
+msgid "Preserve the order of scripts execution when deferring JS files dependencies"
+msgstr "Bewaar de volgorde van de uitvoering van scripts bij het uitstellen van JS bestandsafhankelijkheden"
+
+#: layout/admin-layout-settings.php:272
+msgid "Defer Inline JavaScript"
+msgstr "Inline JavaScript uitstellen"
+
+#: layout/admin-layout-settings.php:262
+msgid "This will defer all JS files matching the paths below"
+msgstr "Dit zal alle JS bestanden uitstellen die overeenkomen met de onderstaande paden"
+
+#: layout/admin-layout-settings.php:260
+msgid "Defer JS Files"
+msgstr "Stel JS bestanden uit"
+
+#: layout/admin-layout-settings.php:250
+msgid "This will render block all JS files matching the paths below"
+msgstr "Hierdoor worden alle JS bestanden geblokkeerd die overeenkomen met de onderstaande paden"
+
+#: layout/admin-layout-settings.php:248
+msgid "Render Blocking JS files"
+msgstr "Render JS bestanden blokkeren"
+
+#: layout/admin-layout-settings.php:240
+msgid "Will prevent merging or minification for all JS files matching the paths below"
+msgstr "Voorkomt samenvoegen of verkleinen voor alle JS bestanden die overeenkomen met de onderstaande paden"
+
+#: layout/admin-layout-settings.php:230
+msgid "Will remove the Render Blocking JS files Link Preload from the header"
+msgstr "Verwijdert de Render Blokkerende JS bestanden Link Preload uit de header"
+
+#: layout/admin-layout-settings.php:225
+msgid "Disable JS Inline Minification"
+msgstr "Schakel JS Inline verkleining uit"
+
+#: layout/admin-layout-settings.php:220
+msgid "Disable JS Files Minification"
+msgstr "Schakel het verkleinen van JS bestanden uit"
+
+#: layout/admin-layout-settings.php:214
+msgid "Deprecated: Will combine all JS files by render blocking type (no longer recommended for HTTP/2 servers)"
+msgstr "Verouderd: combineert alle JS bestanden door het blokkeertype weer te geven (niet langer aanbevolen voor HTTP/2 servers)"
+
+#: layout/admin-layout-settings.php:214
+msgid "Combine JS Files"
+msgstr "Combineer JS bestanden"
+
+#: layout/admin-layout-settings.php:186
+msgid "In this section, you can optimize your JS files and inline scripts manually (by default all scripts are ignored for compatibility reasons)."
+msgstr "In deze sectie kun je je JS bestanden en inline-scripts handmatig optimaliseren (standaard worden alle scripts genegeerd om compatibiliteitsredenen)."
+
+#: layout/admin-layout-settings.php:171
+msgid "Async the following CSS files"
+msgstr "Asynchroniseer de volgende CSS bestanden"
+
+#: layout/admin-layout-settings.php:169
+msgid "Async CSS Files"
+msgstr "Async CSS bestanden"
+
+#: layout/admin-layout-settings.php:142
+msgid "Will remove the Render Blocking CSS files Link Preload from the header"
+msgstr "Verwijdert de Render Blokkerende CSS bestanden Link Preload uit de header"
+
+#: layout/admin-layout-settings.php:137
+msgid "Will disable CSS Styles minification for compatibility purposes"
+msgstr "Schakelt de verkleining van CSS stijlen uit voor compatibiliteit doeleinden"
+
+#: layout/admin-layout-settings.php:137
+msgid "Disable CSS Styles Minification"
+msgstr "Schakel het verkleinen van CSS stijlen uit"
+
+#: layout/admin-layout-settings.php:132
+msgid "Will disable CSS Files minification for compatibility purposes"
+msgstr "Schakelt de verkleining van CSS-bestanden uit voor compatibiliteit doeleinden"
+
+#: layout/admin-layout-settings.php:132
+msgid "Disable CSS Files Minification"
+msgstr "Schakel het verkleinen van CSS-bestanden uit"
+
+#: layout/admin-layout-settings.php:127
+msgid "Deprecated: Will combine all CSS files by mediatype groups in the header (no longer recommended for HTTP/2 servers)"
+msgstr "Vervallen: combineert alle CSS-bestanden op mediatype-groepen in de header (niet langer aanbevolen voor HTTP/2 servers)"
+
+#: layout/admin-layout-settings.php:127
+msgid "Combine CSS Files"
+msgstr "Combineer CSS-bestanden"
+
+#: layout/admin-layout-settings.php:241
+msgid "--- ex: /plugins/something/assets/problem.js ---"
+msgstr "--- bijv.:/plugins/something/assets/problem.js --"
+
+#: layout/admin-layout-settings.php:230
+msgid "Disable JS link Preload"
+msgstr "Schakel het vooraf laden van JS link uit"
+
+#: layout/admin-layout-settings.php:206
+msgid "Advanced JS Options"
+msgstr "Geavanceerde JS-opties"
+
+#: layout/admin-layout-settings.php:142
+msgid "Disable CSS Link Preload"
+msgstr "Schakel het vooraf laden van CSS links uit"
+
+#: layout/admin-layout-settings.php:119
+msgid "Advanced CSS Options"
+msgstr "Geavanceerde CSS-opties"
+
+#: layout/admin-layout-settings.php:71
+msgid "Advanced HTML Options"
+msgstr "Geavanceerde HTML-opties"
+
+#: layout/admin-layout-settings.php:20 layout/admin-layout-settings.php:73
+#: layout/admin-layout-settings.php:121 layout/admin-layout-settings.php:208
+msgid "Handle with Care"
+msgstr "Breekbaar"
+
+#: layout/admin-layout-settings.php:44 layout/admin-layout-settings.php:97
+#: layout/admin-layout-settings.php:194
+msgid "Recommended Settings"
+msgstr "Aanbevolen instellingen"
+
+#: inc/common.php:142
+msgid "All supported caches have been purged "
+msgstr "Alle ondersteunde caches zijn opgeschoond "
+
+#: inc/common.php:256
+msgid "All caches on <strong>WP-Optimize</strong> have been purged."
+msgstr "Alle caches op <strong>WP-Optimize</strong> zijn opgeschoond."
+
+#: inc/common.php:250
+msgid "All caches on <strong>Hummingbird</strong> have been purged."
+msgstr "Alle caches op <strong>Hummingbird</strong> zijn opgeschoond."
+
+#: layout/admin-layout-settings.php:243
+msgid "It is highly recommended to try to leave this empty and later be more specific on what to merge"
+msgstr "Het wordt sterk aanbevolen om te proberen dit leeg te laten en later specifieker te zijn over wat u wilt samenvoegen"
+
+#: layout/admin-layout-settings.php:242
+msgid "Will match using <code>PHP stripos</code> against the script <code>src</code> attribute"
+msgstr "Zal matchen met behulp van <code>PHP stripos</code> tegen het script <code>src</code> attribuut"
+
+#: layout/admin-layout-settings.php:238
+msgid "Ignore Script Files"
+msgstr "Scriptbestanden negeren"
+
+#: layout/admin-layout-settings.php:149
+msgid "Ignore CSS files"
+msgstr "Css-bestanden negeren"
+
+#: layout/admin-layout-settings.php:18
+msgid "Global Options"
+msgstr "Globale opties"
+
+#: layout/admin-layout-settings.php:12
+msgid "Settings that affect the plugin and are not specific to speed optimization."
+msgstr "Instellingen die van invloed zijn op de plugin en niet specifiek zijn voor snelheidsoptimalisatie."
+
+#: layout/admin-layout-settings.php:11
+msgid "Global Settings"
+msgstr "Globale instellingen"
+
+#: layout/admin-layout-settings.php:403
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: layout/admin-layout-settings.php:391
+msgid "Force optimization for the following user roles"
+msgstr "Forceer optimalisatie voor de volgende gebruikersrollen"
+
+#: layout/admin-layout-settings.php:389
+msgid "User Options"
+msgstr "Gebruikersopties"
+
+#: layout/admin-layout-settings.php:384
+msgid "For compatibility reasons, only anonymous users should be optimized by default."
+msgstr "Om compatibiliteitsredenen mogen alleen anonieme gebruikers standaard worden geoptimaliseerd."
+
+#: layout/admin-layout-settings.php:383
+msgid "User Settings"
+msgstr "Gebruikersinstellingen"
+
+#: layout/admin-layout-settings.php:25
+msgid "Purge Minified CSS/JS files instantly"
+msgstr "Schoon verkleinde CSS/JS bestanden onmiddellijk op"
+
+#: layout/admin-layout-settings.php:356
+msgid "CDN Integration"
+msgstr "CDN-integratie"
+
+#: layout/admin-layout-settings.php:346
+msgid "CDN URL"
+msgstr "CDN URL"
+
+#: layout/admin-layout-settings.php:340
+msgid "Will serve the FVM generated JS files from the CDN"
+msgstr "Zal de door FVM gegenereerde JS-bestanden van het CDN bedienen"
+
+#: layout/admin-layout-settings.php:340
+msgid "Enable CDN for merged JS files"
+msgstr "CDN inschakelen voor samengevoegde JS-bestanden"
+
+#: layout/admin-layout-settings.php:335
+msgid "Will serve the FVM generated CSS files from the CDN"
+msgstr "Zal de door FVM gegenereerde CSS-bestanden van het CDN bedienen"
+
+#: layout/admin-layout-settings.php:335
+msgid "Enable CDN for merged CSS files"
+msgstr "CDN inschakelen voor samengevoegde CSS-bestanden"
+
+#: layout/admin-layout-settings.php:330
+msgid "Enable CDN Processing"
+msgstr " CDN-verwerking inschakelen"
+
+#: layout/admin-layout-settings.php:323
+msgid "CDN Options"
+msgstr "CDN-opties"
+
+#: layout/admin-layout-settings.php:319
+msgid "If your CDN provider gives you a different URL for your assets, you can use it here"
+msgstr "Als je CDN-provider je een andere URL geeft voor je assets, kun je die hier gebruiken"
+
+#: layout/admin-layout-settings.php:318
+msgid "CDN Settings"
+msgstr "CDN-instellingen"
+
+#: layout/admin-layout-settings.php:307
+msgid "Will match using <code>PHP stripos</code> against the script <code>outerHTML</code>"
+msgstr "Komt overeen met het gebruik van <code>PHP stripos</code> tegen het script <code>outerHTML</code>"
+
+#: layout/admin-layout-settings.php:306
+msgid "This will allow you to remove unwanted script tags from the frontend"
+msgstr "Hierdoor kan je ongewenste scripttags van de frontend verwijderen"
+
+#: layout/admin-layout-settings.php:303
+msgid "Remove the following JS files or Inline Scripts"
+msgstr "Verwijder de volgende JS-bestanden of inline scripts"
+
+#: layout/admin-layout-settings.php:301
+msgid "Remove JavaScript Scripts"
+msgstr "Verwijder JavaScript-scripts"
+
+#: layout/admin-layout-settings.php:282
+msgid "Will match using <code>PHP stripos</code> against the script <code>innerHTML</code>"
+msgstr "Zal overeenkomen met het gebruik van <code>PHP stripos</code> tegen het script <code>innerHTML</code>"
+
+#: layout/admin-layout-settings.php:267
+msgid "Will match using <code>PHP stripos</code> against the script <code>src attribute"
+msgstr "Komt overeen met het gebruik van <code>PHP stripos</code> met het script <code>src-attribuut"
+
+#: layout/admin-layout-settings.php:251 layout/admin-layout-settings.php:263
+#: layout/admin-layout-settings.php:275 layout/admin-layout-settings.php:290
+#: layout/admin-layout-settings.php:304
+msgid "--- example ---"
+msgstr "--- voorbeeld ---"
+
+#: layout/admin-layout-settings.php:255
+msgid "Will match using <code>PHP stripos</code> against the script <code>src attribute</code>"
+msgstr "Komt overeen met het gebruik van <code>PHP stripos</code> tegen het script <code>src attribute</code>"
+
+#: layout/admin-layout-settings.php:199
+msgid "Enable JS Processing"
+msgstr " JS-verwerking inschakelen"
+
+#: layout/admin-layout-settings.php:192
+msgid "JS Options"
+msgstr "JS-opties"
+
+#: layout/admin-layout-settings.php:185
+msgid "JS Settings"
+msgstr "JS instellingen"
+
+#: layout/admin-layout-settings.php:173
+msgid "This will allow you to Async CSS files by URI path from the frontend"
+msgstr "Dit zal je in staat stellen om ongewenste async CSS bestanden via het URI pad van de front-end te verwijderen"
+
+#: layout/admin-layout-settings.php:161
+msgid "Remove the following CSS files"
+msgstr "Verwijder de volgende CSS-bestanden"
+
+#: layout/admin-layout-settings.php:159
+msgid "Remove CSS Files"
+msgstr "Css-bestanden verwijderen"
+
+#: layout/admin-layout-settings.php:154 layout/admin-layout-settings.php:164
+#: layout/admin-layout-settings.php:174
+msgid "Will match using <code>PHP stripos</code> against the <code>href attribute</code> on the <code>link tag</code>"
+msgstr "Zal matchen met behulp van <code>PHP stripos</code> tegen het kenmerk <code>href attribute</code> op de <code>link tag</code>"
+
+#: layout/admin-layout-settings.php:153
+msgid "CSS files are merged and grouped automatically by mediatype, hence you have an option to exclude files."
+msgstr "CSS-bestanden worden automatisch samengevoegd en gegroepeerd op mediatype, dus je hebt een optie om bestanden uit te sluiten."
+
+#: layout/admin-layout-settings.php:151
+msgid "Ignore the following CSS URL's"
+msgstr "Negeer de volgende CSS-URL's"
+
+#: layout/admin-layout-settings.php:107
+msgid "Will merge fonts and icons into a separate CSS file"
+msgstr "Zal lettertypen en pictogrammen samenvoegen in een afzonderlijk CSS-bestand"
+
+#: layout/admin-layout-settings.php:107
+msgid "Merge Fonts and Icons separately"
+msgstr "Voeg lettertypen en pictogrammen afzonderlijk samen"
+
+#: layout/admin-layout-settings.php:112
+msgid "Will remove CSS files of mediatype \"print\" from the frontend"
+msgstr "Zal CSS-bestanden van mediatype \"print\" van de frontend\" verwijderen"
+
+#: layout/admin-layout-settings.php:112
+msgid "Remove \"Print\" CSS files"
+msgstr "Verwijder \"Print\" CSS-bestanden"
+
+#: layout/admin-layout-settings.php:102
+msgid "Enable CSS Processing"
+msgstr "Schakel CSS-verwerking in"
+
+#: layout/admin-layout-settings.php:95
+msgid "CSS Options"
+msgstr "CSS Opties"
+
+#: layout/admin-layout-settings.php:89
+msgid "Optimize your CSS and Styles settings."
+msgstr "Optimaliseer je instellingen voor CSS en stijlen."
+
+#: layout/admin-layout-settings.php:88
+msgid "CSS Settings"
+msgstr "CSS-instellingen"
+
+#: layout/admin-layout-settings.php:64
+msgid "Removes the default emoji scripts and styles that come with WordPress"
+msgstr "Verwijdert de standaard emoji scripts en stijlen die bij WordPress worden geleverd"
+
+#: layout/admin-layout-settings.php:64
+msgid "Remove Emoji"
+msgstr "Verwijder Emoji"
+
+#: layout/admin-layout-settings.php:59
+msgid "Removes resource hints, generator tag, shortlinks, manifest link, etc"
+msgstr "Verwijdert bronhints, generator-tag, shortlinks, manifestlink, enz."
+
+#: layout/admin-layout-settings.php:59
+msgid "Cleanup Header"
+msgstr "Opschonen header"
+
+#: layout/admin-layout-settings.php:54
+msgid "Will strip HTML comments from your HTML page"
+msgstr " Zal HTML opmerkingen verwijderen van je HTML pagina"
+
+#: layout/admin-layout-settings.php:54
+msgid "Strip HTML Comments"
+msgstr "Strip HTML opmerkingen"
+
+#: layout/admin-layout-settings.php:225
+msgid "Will disable JS Inline minification for testing purposes"
+msgstr "Zal HTML verkleining uitschakelen voor testdoeleinden"
+
+#: layout/admin-layout-settings.php:78
+msgid "Disable HTML Minification"
+msgstr " HTML-verkleining uitschakelen"
+
+#: layout/admin-layout-settings.php:49 layout/admin-layout-settings.php:102
+#: layout/admin-layout-settings.php:199 layout/admin-layout-settings.php:330
+msgid "Will enable processing for the settings below"
+msgstr "Maakt verwerking mogelijk voor de onderstaande instellingen"
+
+#: layout/admin-layout-settings.php:49
+msgid "Enable HTML Processing"
+msgstr " HTML-verwerking inschakelen"
+
+#: layout/admin-layout-settings.php:325
+msgid "Select your options below"
+msgstr "Selecteer je opties hieronder"
+
+#: layout/admin-layout-settings.php:42
+msgid "HTML Options"
+msgstr "HTML opties"
+
+#: layout/admin-layout-settings.php:36
+msgid "Optimize your HTML and remove some clutter from the HTML page."
+msgstr "Optimaliseer je HTML en verwijder wat rommel van de HTML-pagina."
+
+#: layout/admin-layout-settings.php:35
+msgid "HTML Settings"
+msgstr "HTML Instellingen"
+
+#: layout/admin-layout.php:12
+msgid "Status"
+msgstr "Status"
+
+#: layout/admin-layout.php:11
+msgid "Settings"
+msgstr "Instellingen"
+
+#: layout/admin-layout-status.php:17
+msgid "In this section, you can check some server stats and information"
+msgstr "In deze sectie kan je enkele serverstatistieken en informatie bekijken"
+
+#: inc/wp-cli.php:34
+msgid "This feature is currently under development."
+msgstr "Deze functie is momenteel in ontwikkeling."
+
+#: inc/wp-cli.php:17
+msgid "FVM and other caches were purged."
+msgstr "FVM en andere caches zijn gewist."
+
+#: inc/serverinfo.php:11 inc/serverinfo.php:64 inc/serverinfo.php:83
+#: inc/serverinfo.php:102 inc/serverinfo.php:122 inc/serverinfo.php:141
+#: inc/serverinfo.php:156 inc/serverinfo.php:179 inc/serverinfo.php:202
+#: inc/serverinfo.php:222 inc/serverinfo.php:243 inc/serverinfo.php:291
+msgid "You are not allowed to execute this function!"
+msgstr "Je mag deze functie niet uitvoeren!"
+
+#: inc/common.php:674
+msgid "Requested path is not allowed!"
+msgstr "Aangevraagde pad is niet toegestaan!"
+
+#: inc/wp-cli.php:26
+msgid "FVM: All Caches are now cleared."
+msgstr "FVM: alle caches zijn nu gewist."
+
+#: inc/admin.php:467
+msgid "No roles detected!"
+msgstr "Geen rollen gedetecteerd!"
+
+#: inc/admin.php:32
+msgid "FVM needs writing permissions on "
+msgstr "FVM heeft schrijfrechten nodig"
+
+#: inc/admin.php:25
+msgid "FVM requires WP 4.9 or higher. You’re still on"
+msgstr "FVM vereist WP 4.9 of hoger. Je bent nog steeds bezig"
+
+#: inc/admin.php:20
+msgid "FVM requires the PHP mbstring module to be installed on the server."
+msgstr "FVM vereist dat de PHP mbstring-module op de server is geïnstalleerd."
+
+#: inc/admin.php:15
+msgid "FVM requires PHP 5.6 or higher. You’re still on"
+msgstr "FVM vereist WP 5.6 of hoger. Je bent nog steeds bezig"
+
+#: inc/admin.php:308
+msgid "WP_CONTENT_DIR is undefined!"
+msgstr "WP_CONTENT_DIR is niet gedefinieerd!"
+
+#: inc/admin.php:192
+msgid "Invalid data!"
+msgstr "Ongeldige gegevens!"
+
+#: inc/admin.php:149
+msgid "Invalid nounce. Please refresh and try again."
+msgstr "Ongeldige naam. Vernieuw en probeer opnieuw."
+
+#: inc/common.php:335
+msgid "A cache purge request has been sent to <strong>Savvii</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>Savvii</strong>"
+
+#: inc/common.php:327
+msgid "A cache purge request has been sent to <strong>Pressidium</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>Pressidium</strong>"
+
+#: inc/common.php:320
+msgid "A cache purge request has been sent to <strong>Pagely</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>Pagely</strong>"
+
+#: inc/common.php:312
+msgid "A cache purge request has been sent to <strong>Kinsta</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>Kinsta</strong>"
+
+#: inc/common.php:303
+msgid "A cache purge request has been sent to <strong>WP Engine</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>WP Engine</strong>"
+
+#: inc/common.php:294
+msgid "A cache purge request has been sent to <strong>Go Daddy Varnish</strong>"
+msgstr "Er is een aanvraag voor het opschonen van de cache verzonden naar <strong>Go Daddy Varnish</strong>"
+
+#: inc/common.php:288
+msgid "All caches on <strong>SG Optimizer</strong> have been purged."
+msgstr "Alle caches op <strong>SG Optimizer</strong>zijn opgeschoond."
+
+#: inc/common.php:244
+msgid "All caches on <strong>Swift Performance</strong> have been purged."
+msgstr "Alle caches op <strong>Swift Performance</strong>zijn opgeschoond."
+
+#: inc/common.php:238
+msgid "All caches on <strong>Breeze</strong> have been purged."
+msgstr "Alle caches op <strong>Breeze</strong>zijn opgeschoond."
+
+#: inc/common.php:227
+msgid "All caches on <strong>Cache Enabler</strong> have been purged."
+msgstr "Alle caches op <strong>Cache Enabler</strong>zijn opgeschoond."
+
+#: inc/common.php:221
+msgid "All caches on <strong>HyperCache</strong> have been purged."
+msgstr "Alle caches op <strong>HyperCache</strong>zijn opgeschoond."
+
+#: inc/common.php:209
+msgid "All caches on <strong>LiteSpeed Cache</strong> have been purged."
+msgstr "Alle caches op <strong>LiteSpeed Cache</strong>zijn opgeschoond."
+
+#: inc/common.php:197 inc/common.php:203
+msgid "All caches on <strong>Comet Cache</strong> have been purged."
+msgstr "Alle caches op <strong>Comet Cache</strong>zijn opgeschoond."
+
+#: inc/common.php:191
+msgid "All caches on <strong>Cachify</strong> have been purged."
+msgstr "Alle caches op <strong>Cachify</strong>zijn opgeschoond."
+
+#: inc/common.php:185
+msgid "All caches on <strong>WP Rocket</strong> have been purged."
+msgstr "Alle caches op <strong>WP Rocket</strong>zijn opgeschoond."
+
+#: inc/common.php:179
+msgid "All caches on <strong>WP Super Cache</strong> have been purged."
+msgstr "Alle caches op <strong>WP Super Cache</strong>zijn opgeschoond."
+
+#: inc/common.php:173
+msgid "All caches on <strong>W3 Total Cache</strong> have been purged."
+msgstr "Alle caches op <strong>W3 Total Cache</strong>zijn opgeschoond."
+
+#: inc/admin.php:145 inc/admin.php:149 inc/admin.php:192 inc/admin.php:286
+#: inc/admin.php:303 inc/admin.php:308 inc/admin.php:314 inc/common.php:119
+#: inc/common.php:124
+msgid "Error:"
+msgstr "Fout:"
+
+#: inc/common.php:50 layout/admin-layout.php:14
+msgid "Help"
+msgstr "Helpen"
+
+#: inc/common.php:32
+msgid "FVM Settings"
+msgstr "FVM-instellingen"
+
+#: inc/common.php:24
+msgid "Clear Everything"
+msgstr "Wis alles"
+
+#: inc/common.php:16
+msgid "FVM"
+msgstr "FVM"
+
+#: layout/admin-layout-status.php:16
+msgid "Server Info"
+msgstr "Serverinfo"
+
+#: inc/common.php:124
+msgid "Invalid or expired request... please go back and refresh before trying again!"
+msgstr "Ongeldig of verlopen verzoek ... ga terug en vernieuw voordat je het opnieuw probeert!"
+
+#: inc/admin.php:145 inc/admin.php:286 inc/admin.php:303 inc/common.php:119
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om deze pagina te openen."
+
+#. Author of the plugin
+msgid "Raul Peixoto"
+msgstr "Raul Peixoto"
+
+#. Description of the plugin
+msgid "Improve your speed score on GTmetrix, Pingdom Tools and Google PageSpeed Insights by merging and minifying CSS and JavaScript files into groups, compressing HTML and other speed optimizations."
+msgstr "Verbeter je snelheidsscore op GTmetrix, Pingdom Tools en Google PageSpeed ​​Insights door CSS- en JavaScript-bestanden samen te voegen en te verkleinen in groepen, door HTML en andere snelheidsoptimalisaties te comprimeren."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://fastvelocity.com"
+msgstr "http://fastvelocity.com"
+
+#. Plugin Name of the plugin
+msgid "Fast Velocity Minify"
+msgstr "Fast Velocity Minify"

@@ -1,0 +1,66 @@
+2022-06-06T23:24:59+00:00 ERROR Error getting data feed
+2022-06-06T23:24:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-06-06T23:24:59+00:00 ERROR Error getting data feed
+2022-06-06T23:24:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-06-06T23:38:44+00:00 ERROR Error getting data feed
+2022-06-06T23:38:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

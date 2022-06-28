@@ -1,0 +1,12 @@
+[pl_row pagelayer-id="fgAooivpDINJI3RR"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#227bc3" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#e44993" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_type="color" ele_bg_color="#212121ff" ele_padding="5px,0px,5px,0px"]
+[pl_col pagelayer-id="rqABu0H9TIVlwGBr"  widget_space="15" overlay_hover_delay="400" col_width="30" content_pos="center"]
+[pl_wp_title pagelayer-id="zQiI9KVfgFI6ELAm"  site_name="Artville" site_title_state="normal" text-align="left" site_title_style="Muli,30,,,,,Solid,,,," title_color="#2196f3ff" title_padding="0,0,0,0"]
+[/pl_wp_title]
+[/pl_col]
+[pl_col pagelayer-id="1mL27oDXx6MGyZ3i"  widget_space="15" overlay_hover_delay="400" col_width="70" content_pos="center"]
+[pl_wp_menu pagelayer-id="JoLspa0obB4Jf9vG"  nav_list="76" align="right" layout="horizontal" pointer="" m_animation="slide" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="" menu_bg_color_active="" horizontal_padding="22" vertical_padding="10" submenu_color="#ffffff" submenu_bg_color="#0986c0" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#2196f3ff" menu_toggle_size="30" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#ffffff68" close_bg_color="#00000036" close_hover_delay="600" close_color_hover="#ffffff" close_bg_color_hover="#000000" submenu_position="left" menu_items_bg="#000000ff" menu_typo="Poppins,14,,600,,,Solid,,Uppercase,," menu_color="#ffffffff" menu_colors="hover" menu_color_hover="#2196f3ff" menu_color_active="#2196f3ff" drop_breakpoint="tablet" menu_toggle_align_tablet="right" menu_toggle_color="#ffffffff" menu_toggle_size_tablet="20" menu_toggle_padding_tablet="10" ele_css="{{element}} .pagelayer-wp_menu-ul .menu-item a {
+    justify-content: center;
+}" menu_width_mobile="60" menu_toggle_size_mobile="20" menu_toggle_padding_mobile="15" menu_toggle_align_mobile="right" menu_posy_mobile="15"]
+[/pl_wp_menu]
+[/pl_col]
+[/pl_row]

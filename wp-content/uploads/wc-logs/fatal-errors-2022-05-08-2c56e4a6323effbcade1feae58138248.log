@@ -1,0 +1,19 @@
+2022-05-08T22:10:06+00:00 CRITICAL Uncaught Error: Undefined constant "red" in /home4/drakelfo/public_html/wp-content/themes/pcgames/woocommerce-custom-products/customizer.php:14
+Stack trace:
+#0 /home4/drakelfo/public_html/wp-content/plugins/custom-products-for-woocommerce/includes/class-woocp.php(443): include()
+#1 /home4/drakelfo/public_html/wp-content/plugins/custom-products-for-woocommerce/public/class-woocp-public.php(387): WOOCP->woocp_get_template('customizer.php', Array)
+#2 /home4/drakelfo/public_html/wp-content/plugins/custom-products-for-woocommerce/public/class-woocp-public.php(312): WOOCP_Public->woocp_get_customizer_product_content(276, 'customizer', Array, Array, '<label for="woo...', true, NULL)
+#3 /home4/drakelfo/public_html/wp-content/plugins/custom-products-for-woocommerce/public/class-woocp-public.php(146): WOOCP_Public->woocp_get_customizer_product_view(276, '<label for="woo...', true, NULL)
+#4 /home4/drakelfo/public_html/wp-includes/shortcodes.php(356): WOOCP_Public::woocp_shortcode('', '', 'woocp')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home4/drakelfo/public_html/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(woocp)...', 'do_shortcode_ta...', '[woocp]\n')
+#7 /home4/drakelfo/public_html/wp-includes/class-wp-hook.php(303): do_shortcode('[woocp]\n')
+#8 /home4/drakelfo/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters('[woocp]\n', Array)
+#9 /home4/drakelfo/public_html/wp-includes/post-template.php(253): apply_filters('the_content', '[woocp]')
+#10 /home4/drakelfo/public_html/wp-content/themes/pcgames/page.php(9): the_content()
+#11 /home4/drakelfo/public_html/wp-includes/template-loader.php(106): include('/home4/drakelfo...')
+#12 /home4/drakelfo/public_html/wp-blog-header.php(19): require_once('/home4/drakelfo...')
+#13 /home4/drakelfo/public_html/index.php(17): require('/home4/drakelfo...')
+#14 {main}
+  thrown en /home4/drakelfo/public_html/wp-content/themes/pcgames/woocommerce-custom-products/customizer.php en la línea 14
+

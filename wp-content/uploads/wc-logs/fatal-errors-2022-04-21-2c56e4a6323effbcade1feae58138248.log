@@ -1,0 +1,19 @@
+2022-04-21T23:12:14+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home4/drakelfo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php:270
+Stack trace:
+#0 /home4/drakelfo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php(270): count(NULL)
+#1 /home4/drakelfo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/API/Marketing.php(118): Automattic\WooCommerce\Admin\Features\Marketing->get_knowledge_base_posts('marketing')
+#2 /home4/drakelfo/public_html/wp-includes/rest-api/class-wp-rest-server.php(1140): Automattic\WooCommerce\Admin\API\Marketing->get_knowledge_base_posts(Object(WP_REST_Request))
+#3 /home4/drakelfo/public_html/wp-includes/rest-api/class-wp-rest-server.php(987): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/marke...', Array, NULL)
+#4 /home4/drakelfo/public_html/wp-includes/rest-api/class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /home4/drakelfo/public_html/wp-includes/rest-api.php(370): WP_REST_Server->serve_request('/wc-admin/marke...')
+#6 /home4/drakelfo/public_html/wp-includes/class-wp-hook.php(303): rest_api_loaded(Object(WP))
+#7 /home4/drakelfo/public_html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 /home4/drakelfo/public_html/wp-includes/plugin.php(518): WP_Hook->do_action(Array)
+#9 /home4/drakelfo/public_html/wp-includes/class-wp.php(388): do_action_ref_array('parse_request', Array)
+#10 /home4/drakelfo/public_html/wp-includes/class-wp.php(750): WP->parse_request('')
+#11 /home4/drakelfo/public_html/wp-includes/functions.php(1291): WP->main('')
+#12 /home4/drakelfo/public_html/wp-blog-header.php(16): wp()
+#13 /home4/drakelfo/public_html/index.php(17): require('/home4/drakelfo...')
+#14 {main}
+  thrown en /home4/drakelfo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php en la línea 270
+
